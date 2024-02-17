@@ -21,4 +21,8 @@ items:
   target: "/municipalite/"
   kind: page
   children: []
+- title: Enfance et Jeunesse
+  target: "/enfance-et-jeunesse/"
+  kind: page
+  children: []
 
