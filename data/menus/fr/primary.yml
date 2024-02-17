@@ -41,4 +41,8 @@ items:
   target: "/economie-et-emploi/"
   kind: page
   children: []
+- title: Culture
+  target: "/culture/"
+  kind: page
+  children: []
 
