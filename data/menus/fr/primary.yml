@@ -1,14 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
-- title: Agenda
-  target: "/agenda/"
-  kind: page
-  children: []
 - title: Municipalité
   target: "/municipalite/"
   kind: page
@@ -19,6 +11,14 @@ items:
   children: []
 - title: Solidarité et Santé
   target: "/solidarite-et-sante/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  children: []
+- title: Agenda
+  target: "/agenda/"
   kind: page
   children: []
 - title: Habitat
