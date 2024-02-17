@@ -21,16 +21,16 @@ items:
   target: "/cadre-de-vie/"
   kind: page
   children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: Economie et emploi
   target: "/economie-et-emploi/"
   kind: page
   children: []
 - title: Culture
   target: "/culture/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/actualites/"
   kind: page
   children: []
 - title: Agenda
