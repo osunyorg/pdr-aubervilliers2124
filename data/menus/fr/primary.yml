@@ -37,4 +37,8 @@ items:
   target: "/cadre-de-vie/"
   kind: page
   children: []
+- title: Economie et emploi
+  target: "/economie-et-emploi/"
+  kind: page
+  children: []
 
