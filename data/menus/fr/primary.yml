@@ -25,12 +25,12 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Agenda
-  target: "/agenda/"
-  kind: page
-  children: []
 - title: Economie et emploi
   target: "/economie-et-emploi/"
+  kind: page
+  children: []
+- title: Agenda
+  target: "/agenda/"
   kind: page
   children: []
 - title: Culture
