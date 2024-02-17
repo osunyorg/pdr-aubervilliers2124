@@ -29,4 +29,8 @@ items:
   target: "/solidarite-et-sante/"
   kind: page
   children: []
+- title: Habitat
+  target: "/habitat/"
+  kind: page
+  children: []
 
