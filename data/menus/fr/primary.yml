@@ -4,7 +4,11 @@ items:
 - title: Municipalité
   target: "/municipalite/"
   kind: page
-  children: []
+  children:
+  - title: Charte de la commune libre d'Aubervilliers
+    target: "/municipalite/charte-de-la-commune-libre-daubervilliers/"
+    kind: page
+    children: []
 - title: Enfance et Jeunesse
   target: "/enfance-et-jeunesse/"
   kind: page
