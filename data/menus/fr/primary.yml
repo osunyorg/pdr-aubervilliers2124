@@ -16,11 +16,7 @@ items:
 - title: Solidarité & Santé
   target: "/solidarite-et-sante/"
   kind: page
-  children:
-  - title: Action sociale
-    target: "/solidarite-et-sante/action-sociale/"
-    kind: page
-    children: []
+  children: []
 - title: Art & culture
   target: "/art-culture/"
   kind: page
