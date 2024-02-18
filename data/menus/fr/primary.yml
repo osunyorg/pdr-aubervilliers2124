@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Art & culture
-  target: "/art-culture/"
-  kind: page
-  children: []
 - title: Municipalité
   target: "/municipalite/"
   kind: page
@@ -25,14 +21,10 @@ items:
     target: "/solidarite-et-sante/action-sociale/"
     kind: page
     children: []
-- title: Cadre de vie
-  target: "/cadre-de-vie/"
+- title: Art & culture
+  target: "/art-culture/"
   kind: page
-  children:
-  - title: Culture
-    target: "/cadre-de-vie/culture/"
-    kind: page
-    children: []
+  children: []
 - title: Economie et emploi
   target: "/economie-et-emploi/"
   kind: page
