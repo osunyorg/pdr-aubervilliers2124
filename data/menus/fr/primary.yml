@@ -25,10 +25,6 @@ items:
     target: "/solidarite-et-sante/action-sociale/"
     kind: page
     children: []
-- title: Habitat
-  target: "/habitat/"
-  kind: page
-  children: []
 - title: Cadre de vie
   target: "/cadre-de-vie/"
   kind: page
