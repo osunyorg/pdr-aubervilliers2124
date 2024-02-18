@@ -32,13 +32,13 @@ items:
 - title: Cadre de vie
   target: "/cadre-de-vie/"
   kind: page
-  children: []
+  children:
+  - title: Culture
+    target: "/cadre-de-vie/culture/"
+    kind: page
+    children: []
 - title: Economie et emploi
   target: "/economie-et-emploi/"
-  kind: page
-  children: []
-- title: Culture
-  target: "/culture/"
   kind: page
   children: []
 - title: Actualités
