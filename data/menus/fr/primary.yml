@@ -12,7 +12,11 @@ items:
 - title: Enfance et Jeunesse
   target: "/enfance-et-jeunesse/"
   kind: page
-  children: []
+  children:
+  - title: Formation
+    target: "/enfance-et-jeunesse/formation/"
+    kind: page
+    children: []
 - title: Solidarité et Santé
   target: "/solidarite-et-sante/"
   kind: page
