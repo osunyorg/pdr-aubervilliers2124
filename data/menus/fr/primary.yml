@@ -13,7 +13,7 @@ items:
   target: "/enfance-et-jeunesse/"
   kind: page
   children: []
-- title: Solidarité et Santé
+- title: Solidarité & Santé
   target: "/solidarite-et-sante/"
   kind: page
   children:
