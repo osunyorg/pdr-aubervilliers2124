@@ -20,7 +20,11 @@ items:
 - title: Solidarité et Santé
   target: "/solidarite-et-sante/"
   kind: page
-  children: []
+  children:
+  - title: Action sociale
+    target: "/solidarite-et-sante/action-sociale/"
+    kind: page
+    children: []
 - title: Habitat
   target: "/habitat/"
   kind: page
