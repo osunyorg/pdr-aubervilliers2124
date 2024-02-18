@@ -37,10 +37,6 @@ items:
   target: "/agenda/"
   kind: page
   children: []
-- title: Ateliers d'entraide
-  target: "/ateliers-dentraide/"
-  kind: page
-  children: []
 - title: Mobilité
   target: "/mobilite/"
   kind: page
