@@ -48,13 +48,13 @@ items:
 - title: Agenda
   target: "/agenda/"
   kind: page
-  children:
-  - title: Agenda par quartiers
-    target: "/agenda/agenda-1/"
-    kind: page
-    children: []
+  children: []
 - title: Ateliers d'entraide
   target: "/ateliers-dentraide/"
+  kind: page
+  children: []
+- title: Mobilité
+  target: "/mobilite/"
   kind: page
   children: []
 
