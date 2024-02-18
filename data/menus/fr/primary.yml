@@ -44,5 +44,9 @@ items:
 - title: Agenda
   target: "/agenda/"
   kind: page
-  children: []
+  children:
+  - title: Agenda par quartiers
+    target: "/agenda/agenda-1/"
+    kind: page
+    children: []
 
