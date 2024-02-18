@@ -37,4 +37,8 @@ items:
   target: "/agenda/"
   kind: page
   children: []
+- title: Aubervilliers aujourd'hui
+  target: "/aubervilliers-aujourdhui/"
+  kind: page
+  children: []
 
