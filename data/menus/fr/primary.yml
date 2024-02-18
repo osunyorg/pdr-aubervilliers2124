@@ -9,7 +9,7 @@ items:
     target: "/municipalite/charte-de-la-commune-libre-daubervilliers/"
     kind: page
     children: []
-- title: Enfance et Jeunesse
+- title: Enfance & Jeunesse
   target: "/enfance-et-jeunesse/"
   kind: page
   children: []
