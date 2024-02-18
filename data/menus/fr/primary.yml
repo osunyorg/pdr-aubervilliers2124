@@ -32,7 +32,11 @@ items:
 - title: Cadre de vie
   target: "/cadre-de-vie/"
   kind: page
-  children: []
+  children:
+  - title: Culture
+    target: "/cadre-de-vie/culture-1/"
+    kind: page
+    children: []
 - title: Economie et emploi
   target: "/economie-et-emploi/"
   kind: page
@@ -55,10 +59,6 @@ items:
     children: []
 - title: Ateliers d'entraide
   target: "/ateliers-dentraide/"
-  kind: page
-  children: []
-- title: Culture
-  target: "/culture-1/"
   kind: page
   children: []
 
