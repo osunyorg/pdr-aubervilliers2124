@@ -51,36 +51,12 @@ contents_reading_time:
     moins d'une minute
 contents:
   - kind: block
-    template: agenda
-    title: >-
-      
-    ranks:
-      self: false
-      children: 2
-    data:
-      mode: all
-      layout: grid
-      description: >-
-        
-
-      no_event_message: >-
-        
-
-      show_summary: true
-      show_category: false
-      show_status: false
-      events:
-        - path: "/agenda/2124-03-01-comite-de-quartier-maladrerie/"
-          file: "content/fr/events/2124-03-01-comite-de-quartier-maladrerie.html"
-
-
-  - kind: block
     template: pages
     title: >-
-      
+      Tout savoir sur...
     ranks:
-      self: false
-      children: 2
+      self: 2
+      children: 3
     data:
       show_main_description: false
       show_descriptions: true
@@ -111,10 +87,30 @@ contents:
           slug: "economie-et-emploi"
           file: "content/fr/pages/economie-et-emploi/_index.html"
           external: false
-        - path: "/actualites/"
-          slug: "actualites"
-          file: "content/fr/posts/_index.html"
-          external: false
+
+
+  - kind: block
+    template: agenda
+    title: >-
+      
+    ranks:
+      self: false
+      children: 2
+    data:
+      mode: all
+      layout: grid
+      description: >-
+        
+
+      no_event_message: >-
+        
+
+      show_summary: true
+      show_category: false
+      show_status: false
+      events:
+        - path: "/agenda/2124-03-01-comite-de-quartier-maladrerie/"
+          file: "content/fr/events/2124-03-01-comite-de-quartier-maladrerie.html"
 
 
 
