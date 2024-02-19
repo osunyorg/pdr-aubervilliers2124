@@ -17,10 +17,6 @@ items:
   target: "/solidarite-et-sante/"
   kind: page
   children: []
-- title: Art & culture
-  target: "/art-culture/"
-  kind: page
-  children: []
 - title: Economie & emploi
   target: "/economie-et-emploi/"
   kind: page
