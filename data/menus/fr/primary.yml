@@ -41,4 +41,8 @@ items:
   target: "/aubervilliers-aujourdhui/"
   kind: page
   children: []
+- title: Urbanisme et gouvernance
+  target: "/urbanisme-et-gouvernance/"
+  kind: page
+  children: []
 
