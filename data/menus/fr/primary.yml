@@ -45,4 +45,8 @@ items:
   target: "/aubervilliers-aujourdhui/"
   kind: page
   children: []
+- title: Histoire d'Aubervilliers
+  target: "/histoire-daubervilliers/"
+  kind: page
+  children: []
 
