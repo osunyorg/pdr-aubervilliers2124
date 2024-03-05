@@ -9,10 +9,10 @@ items:
     target: "/municipalite/charte-de-la-commune-libre-daubervilliers/"
     kind: page
     children: []
-- title: Urbanisme et gouvernance
-  target: "/urbanisme-et-gouvernance/"
-  kind: page
-  children: []
+  - title: Urbanisme et gouvernance
+    target: "/municipalite/urbanisme-et-gouvernance/"
+    kind: page
+    children: []
 - title: Enfance & Jeunesse
   target: "/enfance-et-jeunesse/"
   kind: page
