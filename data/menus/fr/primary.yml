@@ -41,6 +41,10 @@ items:
       target: "/municipalite/au-jour-le-jour/agenda/"
       kind: page
       children: []
+  - title: Art & culture
+    target: "/municipalite/art-culture/"
+    kind: page
+    children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
@@ -49,10 +53,6 @@ items:
     target: "/me-nourrir/economie-et-emploi/"
     kind: page
     children: []
-- title: Art & culture
-  target: "/art-culture/"
-  kind: page
-  children: []
 - title: Apprendre
   target: "/apprendre/"
   kind: page
