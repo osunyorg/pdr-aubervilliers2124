@@ -41,26 +41,57 @@ header_cta:
   label: 
   target: 
 contents_reading_time:
-  seconds: 2
+  seconds: 4
   text: >-
     moins d'une minute
 contents:
   - kind: heading
     title: >-
       Le contexte
-    position: 1
+    position: 0
     rank: 2
 
   - kind: heading
     title: >-
       L'équipe pédagogique
-    position: 3
+    position: 1
     rank: 2
+  - kind: block
+    template: persons
+    title: >-
+      
+    ranks:
+      self: false
+      children: 3
+    data:
+      description: >-
+        
+
+      with_link: false
+      with_photo: true
+      persons:
+        - slug: "marion-aubin"
+          external: false
+          role: >-
+            Commanditaire, Point de Rassemblement
+
+        - slug: "stephane-mercier"
+          external: false
+          role: >-
+            Professionnel associé
+
+        - slug: "ludovic-martin"
+          external: false
+          role: >-
+            Doctorant
+
+
+
 
   - kind: heading
     title: >-
       L'équipe projet
-    position: 4
+    position: 2
     rank: 2
   - kind: block
     template: persons
@@ -121,21 +152,6 @@ contents:
           role: >-
             
 
-
-
-  - kind: block
-    template: persons
-    title: >-
-      
-    ranks:
-      self: false
-    data:
-      description: >-
-        
-
-      with_link: false
-      with_photo: false
-      persons:
 
 
 
