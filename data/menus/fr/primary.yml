@@ -49,4 +49,8 @@ items:
   target: "/agenda/"
   kind: page
   children: []
+- title: Me nourrir
+  target: "/me-nourrir/"
+  kind: page
+  children: []
 
