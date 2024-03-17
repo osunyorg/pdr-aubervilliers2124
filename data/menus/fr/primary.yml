@@ -25,10 +25,6 @@ items:
       target: "/municipalite/lhistoire/solidarite-et-sante/"
       kind: page
       children: []
-  - title: Aubervilliers aujourd'hui
-    target: "/municipalite/aubervilliers-aujourdhui/"
-    kind: page
-    children: []
   - title: Agenda
     target: "/municipalite/agenda/"
     kind: page
@@ -37,6 +33,10 @@ items:
     target: "/municipalite/au-jour-le-jour/"
     kind: page
     children:
+    - title: Aubervilliers aujourd'hui
+      target: "/municipalite/au-jour-le-jour/aubervilliers-aujourdhui/"
+      kind: page
+      children: []
     - title: Actualités
       target: "/municipalite/au-jour-le-jour/actualites/"
       kind: page
