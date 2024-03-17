@@ -33,6 +33,10 @@ items:
     target: "/municipalite/agenda/"
     kind: page
     children: []
+  - title: L'histoire
+    target: "/municipalite/lhistoire/"
+    kind: page
+    children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
