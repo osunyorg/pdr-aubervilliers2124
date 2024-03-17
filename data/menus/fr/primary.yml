@@ -53,4 +53,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: Apprendre
+  target: "/apprendre/"
+  kind: page
+  children: []
 
