@@ -25,6 +25,14 @@ items:
     target: "/municipalite/aubervilliers-aujourdhui/"
     kind: page
     children: []
+  - title: Actualités
+    target: "/municipalite/actualites/"
+    kind: page
+    children: []
+  - title: Agenda
+    target: "/municipalite/agenda/"
+    kind: page
+    children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
@@ -43,14 +51,6 @@ items:
     children: []
 - title: Art & culture
   target: "/art-culture/"
-  kind: page
-  children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
-- title: Agenda
-  target: "/agenda/"
   kind: page
   children: []
 - title: Le projet
