@@ -65,4 +65,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: Ferme du Fort d'Aubervilliers
+  target: "/ferme-du-fort-daubervilliers/"
+  kind: page
+  children: []
 
