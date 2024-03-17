@@ -21,6 +21,10 @@ items:
     target: "/municipalite/aubervilliers-aujourdhui/"
     kind: page
     children: []
+- title: Solidarité & Santé
+  target: "/solidarite-et-sante/"
+  kind: page
+  children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
@@ -37,10 +41,6 @@ items:
     target: "/apprendre/enfance-et-jeunesse/"
     kind: page
     children: []
-- title: Solidarité & Santé
-  target: "/solidarite-et-sante/"
-  kind: page
-  children: []
 - title: Art & culture
   target: "/art-culture/"
   kind: page
