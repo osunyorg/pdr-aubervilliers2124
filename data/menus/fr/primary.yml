@@ -48,11 +48,7 @@ items:
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
-  children:
-  - title: Economie & emploi
-    target: "/me-nourrir/economie-et-emploi/"
-    kind: page
-    children: []
+  children: []
 - title: Apprendre
   target: "/apprendre/"
   kind: page
