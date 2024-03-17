@@ -29,10 +29,6 @@ items:
     target: "/municipalite/aubervilliers-aujourdhui/"
     kind: page
     children: []
-  - title: Actualités
-    target: "/municipalite/actualites/"
-    kind: page
-    children: []
   - title: Agenda
     target: "/municipalite/agenda/"
     kind: page
@@ -40,7 +36,11 @@ items:
   - title: Au jour le jour
     target: "/municipalite/au-jour-le-jour/"
     kind: page
-    children: []
+    children:
+    - title: Actualités
+      target: "/municipalite/au-jour-le-jour/actualites/"
+      kind: page
+      children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
