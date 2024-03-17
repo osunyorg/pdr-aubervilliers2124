@@ -41,10 +41,6 @@ items:
   target: "/art-culture/"
   kind: page
   children: []
-- title: Mobilité
-  target: "/mobilite/"
-  kind: page
-  children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
