@@ -8,19 +8,19 @@ items:
   - title: L'histoire
     target: "/municipalite/lhistoire/"
     kind: page
-    children: []
-  - title: Charte de la commune libre d'Aubervilliers
-    target: "/municipalite/charte-de-la-commune-libre-daubervilliers/"
-    kind: page
-    children: []
-  - title: Urbanisme et gouvernance
-    target: "/municipalite/urbanisme-et-gouvernance/"
-    kind: page
-    children: []
-  - title: Solidarité & Santé
-    target: "/municipalite/solidarite-et-sante/"
-    kind: page
-    children: []
+    children:
+    - title: Urbanisme et gouvernance
+      target: "/municipalite/lhistoire/urbanisme-et-gouvernance/"
+      kind: page
+      children: []
+    - title: Charte de la commune libre d'Aubervilliers
+      target: "/municipalite/lhistoire/charte-de-la-commune-libre-daubervilliers/"
+      kind: page
+      children: []
+    - title: Solidarité & Santé
+      target: "/municipalite/lhistoire/solidarite-et-sante/"
+      kind: page
+      children: []
   - title: Histoire d'Aubervilliers
     target: "/municipalite/histoire-daubervilliers/"
     kind: page
