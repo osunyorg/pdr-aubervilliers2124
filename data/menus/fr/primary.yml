@@ -32,11 +32,11 @@ items:
 - title: Apprendre
   target: "/apprendre/"
   kind: page
-  children: []
-- title: Enfance & Jeunesse
-  target: "/enfance-et-jeunesse/"
-  kind: page
-  children: []
+  children:
+  - title: Enfance & Jeunesse
+    target: "/apprendre/enfance-et-jeunesse/"
+    kind: page
+    children: []
 - title: Solidarité & Santé
   target: "/solidarite-et-sante/"
   kind: page
