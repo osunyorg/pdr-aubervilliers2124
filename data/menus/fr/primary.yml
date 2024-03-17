@@ -48,7 +48,11 @@ items:
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
-  children: []
+  children:
+  - title: Jardins partagés
+    target: "/me-nourrir/economie-et-emploi/"
+    kind: page
+    children: []
 - title: Apprendre
   target: "/apprendre/"
   kind: page
