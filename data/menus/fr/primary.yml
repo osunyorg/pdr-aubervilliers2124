@@ -25,10 +25,6 @@ items:
       target: "/municipalite/lhistoire/solidarite-et-sante/"
       kind: page
       children: []
-  - title: Agenda
-    target: "/municipalite/agenda/"
-    kind: page
-    children: []
   - title: Au jour le jour
     target: "/municipalite/au-jour-le-jour/"
     kind: page
@@ -39,6 +35,10 @@ items:
       children: []
     - title: Actualités
       target: "/municipalite/au-jour-le-jour/actualites/"
+      kind: page
+      children: []
+    - title: Agenda
+      target: "/municipalite/au-jour-le-jour/agenda/"
       kind: page
       children: []
 - title: Me nourrir
