@@ -7,3 +7,6 @@ params:
     position: hero
   search:
     active: true
+  menu:
+    dropdown:
+      linkToLevel1: false

@@ -11,3 +11,12 @@
         margin-right: $spacing-2
         max-width: 200px
         
+header#document-header
+    .dropdown-menu
+        padding-top: $spacing-5
+        padding-bottom: $spacing-5
+        border-top: 1px solid $color-border
+    .menu 
+        .nav-level-2
+            @include media-breakpoint-up(desktop)
+                grid-template-columns: repeat(2, 1fr) !important
