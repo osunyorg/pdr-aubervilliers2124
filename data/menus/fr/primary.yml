@@ -49,6 +49,10 @@ items:
     target: "/me-nourrir/economie-et-emploi/"
     kind: page
     children: []
+- title: Art & culture
+  target: "/art-culture/"
+  kind: page
+  children: []
 - title: Apprendre
   target: "/apprendre/"
   kind: page
@@ -57,10 +61,6 @@ items:
     target: "/apprendre/enfance-et-jeunesse/"
     kind: page
     children: []
-- title: Art & culture
-  target: "/art-culture/"
-  kind: page
-  children: []
 - title: Le projet
   target: "/le-projet/"
   kind: page
