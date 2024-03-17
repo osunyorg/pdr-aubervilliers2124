@@ -24,7 +24,11 @@ items:
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
-  children: []
+  children:
+  - title: Economie & emploi
+    target: "/me-nourrir/economie-et-emploi/"
+    kind: page
+    children: []
 - title: Enfance & Jeunesse
   target: "/enfance-et-jeunesse/"
   kind: page
@@ -35,10 +39,6 @@ items:
   children: []
 - title: Art & culture
   target: "/art-culture/"
-  kind: page
-  children: []
-- title: Economie & emploi
-  target: "/economie-et-emploi/"
   kind: page
   children: []
 - title: Mobilité
