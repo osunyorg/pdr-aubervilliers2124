@@ -5,6 +5,10 @@ items:
   target: "/municipalite/"
   kind: page
   children:
+  - title: L'histoire
+    target: "/municipalite/lhistoire/"
+    kind: page
+    children: []
   - title: Charte de la commune libre d'Aubervilliers
     target: "/municipalite/charte-de-la-commune-libre-daubervilliers/"
     kind: page
@@ -33,8 +37,8 @@ items:
     target: "/municipalite/agenda/"
     kind: page
     children: []
-  - title: L'histoire
-    target: "/municipalite/lhistoire/"
+  - title: Au jour le jour
+    target: "/municipalite/au-jour-le-jour/"
     kind: page
     children: []
 - title: Me nourrir
