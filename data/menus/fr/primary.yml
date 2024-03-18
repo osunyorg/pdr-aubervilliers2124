@@ -21,14 +21,14 @@ items:
       target: "/municipalite/lhistoire/urbanisme-et-gouvernance/"
       kind: page
       children: []
-    - title: Solidarité & Santé
-      target: "/municipalite/lhistoire/solidarite-et-sante/"
-      kind: page
-      children: []
   - title: Au jour le jour
     target: "/municipalite/au-jour-le-jour/"
     kind: page
     children:
+    - title: Solidarité & Santé
+      target: "/municipalite/au-jour-le-jour/solidarite-et-sante/"
+      kind: page
+      children: []
     - title: Aubervilliers aujourd'hui
       target: "/municipalite/au-jour-le-jour/aubervilliers-aujourdhui/"
       kind: page
