@@ -21,6 +21,10 @@ items:
       target: "/municipalite/lhistoire/urbanisme-et-gouvernance/"
       kind: page
       children: []
+    - title: Les plans
+      target: "/municipalite/lhistoire/les-plans/"
+      kind: page
+      children: []
   - title: Au jour le jour
     target: "/municipalite/au-jour-le-jour/"
     kind: page
