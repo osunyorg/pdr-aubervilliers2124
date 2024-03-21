@@ -45,6 +45,10 @@ items:
       target: "/municipalite/au-jour-le-jour/agenda/"
       kind: page
       children: []
+- title: La loi de lutte contre la gentrification
+  target: "/la-loi-de-lutte-contre-la-gentrification/"
+  kind: page
+  children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
@@ -71,10 +75,6 @@ items:
     children: []
 - title: Le projet
   target: "/le-projet/"
-  kind: page
-  children: []
-- title: La loi de lutte contre la gentrification
-  target: "/la-loi-de-lutte-contre-la-gentrification/"
   kind: page
   children: []
 
