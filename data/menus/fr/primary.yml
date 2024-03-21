@@ -12,11 +12,7 @@ items:
     - title: Histoire d'Aubervilliers
       target: "/municipalite/lhistoire/histoire-daubervilliers/"
       kind: page
-      children:
-      - title: La loi de lutte contre la gentrification
-        target: "/municipalite/lhistoire/histoire-daubervilliers/la-loi-de-lutte-contre-la-gentrification/"
-        kind: page
-        children: []
+      children: []
     - title: Charte de la commune libre d'Aubervilliers
       target: "/municipalite/lhistoire/charte-de-la-commune-libre-daubervilliers/"
       kind: page
