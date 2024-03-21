@@ -73,4 +73,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: La loi de lutte contre la gentrification
+  target: "/la-loi-de-lutte-contre-la-gentrification/"
+  kind: page
+  children: []
 
