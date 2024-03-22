@@ -5,7 +5,7 @@ items:
   target: "/municipalite/"
   kind: page
   children:
-  - title: L'histoire
+  - title: D'hier à aujourd'hui
     target: "/municipalite/lhistoire/"
     kind: page
     children:
