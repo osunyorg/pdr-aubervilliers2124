@@ -13,6 +13,10 @@ items:
       target: "/municipalite/lhistoire/histoire-daubervilliers/"
       kind: page
       children: []
+    - title: Histoire d'Aubervilliers des cent dernières années
+      target: "/municipalite/lhistoire/histoire-daubervilliers-des-cent-dernieres-annees/"
+      kind: page
+      children: []
     - title: Charte de la commune libre d'Aubervilliers
       target: "/municipalite/lhistoire/charte-de-la-commune-libre-daubervilliers/"
       kind: page
@@ -45,10 +49,6 @@ items:
       target: "/municipalite/au-jour-le-jour/agenda/"
       kind: page
       children: []
-- title: Histoire d'Aubervilliers des cent dernières années
-  target: "/histoire-daubervilliers-des-cent-dernieres-annees/"
-  kind: page
-  children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
