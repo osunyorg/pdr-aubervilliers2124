@@ -77,4 +77,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: Histoire d'Aubervilliers des cent dernières années
+  target: "/histoire-daubervilliers-des-cent-dernieres-annees/"
+  kind: page
+  children: []
 
