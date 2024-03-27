@@ -45,6 +45,10 @@ items:
       target: "/municipalite/au-jour-le-jour/agenda/"
       kind: page
       children: []
+- title: Histoire d'Aubervilliers des cent dernières années
+  target: "/histoire-daubervilliers-des-cent-dernieres-annees/"
+  kind: page
+  children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
@@ -71,10 +75,6 @@ items:
     children: []
 - title: Me déplacer
   target: "/mobilite/"
-  kind: page
-  children: []
-- title: Histoire d'Aubervilliers des cent dernières années
-  target: "/histoire-daubervilliers-des-cent-dernieres-annees/"
   kind: page
   children: []
 - title: Le projet
