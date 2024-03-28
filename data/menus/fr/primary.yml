@@ -49,6 +49,10 @@ items:
       target: "/municipalite/au-jour-le-jour/agenda/"
       kind: page
       children: []
+- title: Charte des rues agricoles
+  target: "/charte-des-rues-agricoles/"
+  kind: page
+  children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
@@ -73,10 +77,6 @@ items:
     target: "/apprendre/enfance-et-jeunesse/"
     kind: page
     children: []
-- title: Charte des rues agricoles
-  target: "/charte-des-rues-agricoles/"
-  kind: page
-  children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
