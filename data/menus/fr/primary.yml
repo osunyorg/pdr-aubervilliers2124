@@ -73,16 +73,16 @@ items:
     target: "/apprendre/enfance-et-jeunesse/"
     kind: page
     children: []
+- title: Charte des rues agricoles
+  target: "/charte-des-rues-agricoles/"
+  kind: page
+  children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
   children: []
 - title: Le projet
   target: "/le-projet/"
-  kind: page
-  children: []
-- title: Charte des rues agricoles
-  target: "/charte-des-rues-agricoles/"
   kind: page
   children: []
 
