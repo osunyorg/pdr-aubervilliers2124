@@ -81,4 +81,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: Charte des rues agricoles
+  target: "/charte-des-rues-agricoles/"
+  kind: page
+  children: []
 
