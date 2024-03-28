@@ -56,11 +56,31 @@ items:
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
-  children: []
+  children:
+  - title: Ferme Mazier
+    target: "/me-nourrir/ferme-mazier/"
+    kind: page
+    children: []
+  - title: Ferme du Fort d'Aubervilliers
+    target: "/me-nourrir/ferme-du-fort-daubervilliers/"
+    kind: page
+    children: []
+  - title: Jardins partagés
+    target: "/me-nourrir/economie-et-emploi/"
+    kind: page
+    children: []
+  - title: Le réseau de distribution alimentaire
+    target: "/me-nourrir/le-reseau-de-distribution-alimentaire/"
+    kind: page
+    children: []
 - title: Apprendre
   target: "/apprendre/"
   kind: page
-  children: []
+  children:
+  - title: Enfance & Jeunesse
+    target: "/apprendre/enfance-et-jeunesse/"
+    kind: page
+    children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
