@@ -21,10 +21,6 @@ items:
       target: "/municipalite/lhistoire/charte-de-la-commune-libre-daubervilliers/"
       kind: page
       children: []
-    - title: Charte des rues agricoles
-      target: "/municipalite/lhistoire/charte-des-rues-agricoles/"
-      kind: page
-      children: []
     - title: Urbanisme et gouvernance
       target: "/municipalite/lhistoire/urbanisme-et-gouvernance/"
       kind: page
