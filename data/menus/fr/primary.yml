@@ -9,10 +9,6 @@ items:
     target: "/municipalite/lhistoire/"
     kind: page
     children:
-    - title: Histoire d'Aubervilliers
-      target: "/municipalite/lhistoire/histoire-daubervilliers/"
-      kind: page
-      children: []
     - title: Histoire d'Aubervilliers des cent dernières années
       target: "/municipalite/lhistoire/histoire-daubervilliers-des-cent-dernieres-annees/"
       kind: page
