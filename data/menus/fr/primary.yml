@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Ma vie de citoyen.ne
+- title: Ma ville
   target: "/municipalite/"
   kind: page
   children:
