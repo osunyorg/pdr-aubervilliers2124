@@ -81,4 +81,9 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: Discours de la maire sur l'inscription au patrimoine de l'Unesco du kiwi
+    d'Aubervilliers
+  target: "/discours-de-la-maire-sur-linscription-au-patrimoine-de-lunesco-du-kiwi-daubervilliers/"
+  kind: page
+  children: []
 
