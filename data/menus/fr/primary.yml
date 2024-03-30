@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Inscription au patrimoine de l'Unesco du kiwi d'Aubervilliers
-  target: "/discours-de-la-maire-sur-linscription-au-patrimoine-de-lunesco-du-kiwi-daubervilliers/"
-  kind: page
-  children: []
 - title: Ma ville
   target: "/municipalite/"
   kind: page
