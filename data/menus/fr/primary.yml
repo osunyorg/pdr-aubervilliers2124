@@ -29,7 +29,7 @@ items:
       target: "/municipalite/lhistoire/les-plans/"
       kind: page
       children: []
-  - title: Au jour le jour
+  - title: Ma vie de citoyen.ne
     target: "/municipalite/au-jour-le-jour/"
     kind: page
     children:
