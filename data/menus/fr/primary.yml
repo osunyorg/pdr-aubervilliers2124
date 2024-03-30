@@ -17,6 +17,10 @@ items:
       target: "/municipalite/lhistoire/urbanisme-et-gouvernance/"
       kind: page
       children: []
+    - title: Archives officielles
+      target: "/municipalite/lhistoire/archives-officielles/"
+      kind: page
+      children: []
     - title: Les plans
       target: "/municipalite/lhistoire/les-plans/"
       kind: page
@@ -73,10 +77,6 @@ items:
     target: "/apprendre/enfance-et-jeunesse/"
     kind: page
     children: []
-- title: Archives officielles
-  target: "/archives-officielles/"
-  kind: page
-  children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
