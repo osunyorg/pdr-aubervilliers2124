@@ -13,10 +13,6 @@ items:
       target: "/municipalite/lhistoire/histoire-daubervilliers-des-cent-dernieres-annees/"
       kind: page
       children: []
-    - title: Charte de la commune libre d'Aubervilliers
-      target: "/municipalite/lhistoire/charte-de-la-commune-libre-daubervilliers/"
-      kind: page
-      children: []
     - title: Urbanisme et gouvernance
       target: "/municipalite/lhistoire/urbanisme-et-gouvernance/"
       kind: page
