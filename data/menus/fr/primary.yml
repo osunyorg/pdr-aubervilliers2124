@@ -5,7 +5,7 @@ items:
   target: "/municipalite/"
   kind: page
   children:
-  - title: D'hier à aujourd'hui
+  - title: L'histoire d'Aubervilliers
     target: "/municipalite/lhistoire/"
     kind: page
     children:
