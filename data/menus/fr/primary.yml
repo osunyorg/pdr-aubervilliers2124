@@ -85,4 +85,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: Archives officielles
+  target: "/archives-officielles/"
+  kind: page
+  children: []
 
