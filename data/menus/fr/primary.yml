@@ -41,10 +41,6 @@ items:
       target: "/municipalite/au-jour-le-jour/aubervilliers-aujourdhui/"
       kind: page
       children: []
-    - title: Actualités
-      target: "/municipalite/au-jour-le-jour/actualites/"
-      kind: page
-      children: []
     - title: Agenda
       target: "/municipalite/au-jour-le-jour/agenda/"
       kind: page
