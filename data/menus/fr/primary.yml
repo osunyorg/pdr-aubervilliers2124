@@ -69,7 +69,7 @@ items:
   target: "/apprendre/"
   kind: page
   children:
-  - title: Enfance & Jeunesse
+  - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
     target: "/apprendre/enfance-et-jeunesse/"
     kind: page
     children: []
