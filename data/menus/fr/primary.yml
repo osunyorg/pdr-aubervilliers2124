@@ -41,7 +41,7 @@ items:
       target: "/municipalite/ma-vie-de-citoyen-ne/solidarite-et-sante/"
       kind: page
       children: []
-    - title: Aubervilliers aujourd'hui
+    - title: Aubervilliers Libre
       target: "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-aujourdhui/"
       kind: page
       children: []
