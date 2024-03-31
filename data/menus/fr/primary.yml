@@ -49,14 +49,6 @@ items:
   target: "/me-nourrir/"
   kind: page
   children:
-  - title: Ferme Mazier
-    target: "/me-nourrir/ferme-mazier/"
-    kind: page
-    children: []
-  - title: Ferme du Fort d'Aubervilliers
-    target: "/me-nourrir/ferme-du-fort-daubervilliers/"
-    kind: page
-    children: []
   - title: Jardins partagés
     target: "/me-nourrir/economie-et-emploi/"
     kind: page
@@ -84,7 +76,15 @@ items:
   - title: Les lieux nourriciers
     target: "/me-nourrir/les-lieux-nourriciers/"
     kind: page
-    children: []
+    children:
+    - title: Ferme Mazier
+      target: "/me-nourrir/les-lieux-nourriciers/ferme-mazier/"
+      kind: page
+      children: []
+    - title: Ferme du Fort d'Aubervilliers
+      target: "/me-nourrir/les-lieux-nourriciers/ferme-du-fort-daubervilliers/"
+      kind: page
+      children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
