@@ -9,8 +9,8 @@ items:
     target: "/municipalite/gouvernance/"
     kind: page
     children:
-    - title: Cent ans d'histoire
-      target: "/municipalite/gouvernance/cent-ans-d-histoire/"
+    - title: Mille ans d'histoire
+      target: "/municipalite/gouvernance/mille-ans-d-histoire/"
       kind: page
       children: []
     - title: Principes d'organisation
