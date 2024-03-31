@@ -9,6 +9,14 @@ items:
     target: "/municipalite/gouvernance/"
     kind: page
     children:
+    - title: Principes d'organisation
+      target: "/municipalite/gouvernance/principes-d-organisation/"
+      kind: page
+      children: []
+    - title: Les plans
+      target: "/municipalite/gouvernance/les-plans/"
+      kind: page
+      children: []
     - title: Mille ans d'histoire
       target: "/municipalite/gouvernance/mille-ans-d-histoire/"
       kind: page
@@ -17,16 +25,8 @@ items:
       target: "/municipalite/gouvernance/charte-de-la-commune-libre-daubervilliers/"
       kind: page
       children: []
-    - title: Principes d'organisation
-      target: "/municipalite/gouvernance/principes-d-organisation/"
-      kind: page
-      children: []
     - title: Archives officielles
       target: "/municipalite/gouvernance/archives-officielles/"
-      kind: page
-      children: []
-    - title: Les plans
-      target: "/municipalite/gouvernance/les-plans/"
       kind: page
       children: []
   - title: Ma vie de citoyen·ne
