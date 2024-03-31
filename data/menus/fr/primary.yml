@@ -49,10 +49,6 @@ items:
   target: "/me-nourrir/"
   kind: page
   children:
-  - title: L'origine du cimetière-verger
-    target: "/me-nourrir/lorigine-du-cimetiere-verger/"
-    kind: page
-    children: []
   - title: Les lieux d'apprentissage
     target: "/me-nourrir/les-lieux-d-apprentissage/"
     kind: page
@@ -83,6 +79,10 @@ items:
       children: []
     - title: Le réseau de distribution alimentaire
       target: "/me-nourrir/les-lieux-nourriciers/le-reseau-de-distribution-alimentaire/"
+      kind: page
+      children: []
+    - title: L'origine du cimetière-verger
+      target: "/me-nourrir/les-lieux-nourriciers/lorigine-du-cimetiere-verger/"
       kind: page
       children: []
 - title: Me déplacer
