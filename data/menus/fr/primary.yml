@@ -21,10 +21,6 @@ items:
       target: "/municipalite/lhistoire/archives-officielles/"
       kind: page
       children: []
-    - title: L'origine du cimetière-verger
-      target: "/municipalite/lhistoire/lorigine-du-cimetiere-verger/"
-      kind: page
-      children: []
     - title: Les plans
       target: "/municipalite/lhistoire/les-plans/"
       kind: page
@@ -67,6 +63,10 @@ items:
     children: []
   - title: Le réseau de distribution alimentaire
     target: "/me-nourrir/le-reseau-de-distribution-alimentaire/"
+    kind: page
+    children: []
+  - title: L'origine du cimetière-verger
+    target: "/me-nourrir/lorigine-du-cimetiere-verger/"
     kind: page
     children: []
 - title: Apprendre
