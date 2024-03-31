@@ -81,4 +81,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: 'Des parcours dès 12 ans pour s''insérer dans la vie locale '
+  target: "/des-parcours-des-12-ans-pour-sinserer-dans-la-vie-locale/"
+  kind: page
+  children: []
 
