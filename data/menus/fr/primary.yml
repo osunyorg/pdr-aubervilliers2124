@@ -13,8 +13,8 @@ items:
       target: "/municipalite/gouvernance/cent-ans-d-histoire/"
       kind: page
       children: []
-    - title: Urbanisme et gouvernance
-      target: "/municipalite/gouvernance/urbanisme-et-gouvernance/"
+    - title: Principes d'organisation
+      target: "/municipalite/gouvernance/principes-d-organisation/"
       kind: page
       children: []
     - title: Archives officielles
