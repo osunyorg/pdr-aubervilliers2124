@@ -13,6 +13,10 @@ items:
       target: "/municipalite/gouvernance/mille-ans-d-histoire/"
       kind: page
       children: []
+    - title: Charte de la commune libre d'Aubervilliers
+      target: "/municipalite/gouvernance/charte-de-la-commune-libre-daubervilliers/"
+      kind: page
+      children: []
     - title: Principes d'organisation
       target: "/municipalite/gouvernance/principes-d-organisation/"
       kind: page
