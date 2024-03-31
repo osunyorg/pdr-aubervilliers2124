@@ -9,8 +9,8 @@ fr:
   params:
     social:
   permalinks:
-    events: /municipalite/au-jour-le-jour/agenda/:year-:month-:day-:slug/
-    events_categories: /municipalite/au-jour-le-jour/agenda/:slug/
+    events: /municipalite/ma-vie-de-citoyen-ne/agenda/:year-:month-:day-:slug/
+    events_categories: /municipalite/ma-vie-de-citoyen-ne/agenda/:slug/
     persons: /equipe/:slug/
   taxonomies:
     administrator: administrators
