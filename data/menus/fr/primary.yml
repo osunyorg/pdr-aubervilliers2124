@@ -105,4 +105,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: Mon quartier
+  target: "/mon-quartier/"
+  kind: page
+  children: []
 
