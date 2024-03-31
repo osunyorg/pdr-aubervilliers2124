@@ -25,24 +25,24 @@ items:
       target: "/municipalite/lhistoire/les-plans/"
       kind: page
       children: []
-  - title: Ma vie de citoyen.ne
-    target: "/municipalite/au-jour-le-jour/"
+  - title: Ma vie de citoyen·ne
+    target: "/municipalite/ma-vie-de-citoyen-ne/"
     kind: page
     children:
     - title: Charte des rues agricoles
-      target: "/municipalite/au-jour-le-jour/charte-des-rues-agricoles/"
+      target: "/municipalite/ma-vie-de-citoyen-ne/charte-des-rues-agricoles/"
       kind: page
       children: []
     - title: Solidarité & Santé
-      target: "/municipalite/au-jour-le-jour/solidarite-et-sante/"
+      target: "/municipalite/ma-vie-de-citoyen-ne/solidarite-et-sante/"
       kind: page
       children: []
     - title: Aubervilliers aujourd'hui
-      target: "/municipalite/au-jour-le-jour/aubervilliers-aujourdhui/"
+      target: "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-aujourdhui/"
       kind: page
       children: []
     - title: Agenda
-      target: "/municipalite/au-jour-le-jour/agenda/"
+      target: "/municipalite/ma-vie-de-citoyen-ne/agenda/"
       kind: page
       children: []
 - title: Me nourrir
