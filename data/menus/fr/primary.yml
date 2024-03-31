@@ -25,6 +25,10 @@ items:
       target: "/municipalite/lhistoire/les-plans/"
       kind: page
       children: []
+  - title: L'origine du cimetière-verger
+    target: "/municipalite/lorigine-du-cimetiere-verger/"
+    kind: page
+    children: []
   - title: Ma vie de citoyen.ne
     target: "/municipalite/au-jour-le-jour/"
     kind: page
@@ -83,10 +87,6 @@ items:
   children: []
 - title: Le projet
   target: "/le-projet/"
-  kind: page
-  children: []
-- title: L'origine du cimetière-verger
-  target: "/lorigine-du-cimetiere-verger/"
   kind: page
   children: []
 
