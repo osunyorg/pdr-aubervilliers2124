@@ -69,18 +69,18 @@ items:
     target: "/me-nourrir/lorigine-du-cimetiere-verger/"
     kind: page
     children: []
-- title: Apprendre
-  target: "/apprendre/"
-  kind: page
-  children:
-  - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
-    target: "/apprendre/enfance-et-jeunesse/"
+  - title: Apprendre
+    target: "/me-nourrir/apprendre/"
     kind: page
-    children: []
-  - title: L'agroécologie au collège et au lycée
-    target: "/apprendre/l-agroecologie-au-college-et-au-lycee/"
-    kind: page
-    children: []
+    children:
+    - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
+      target: "/me-nourrir/apprendre/enfance-et-jeunesse/"
+      kind: page
+      children: []
+    - title: L'agroécologie au collège et au lycée
+      target: "/me-nourrir/apprendre/l-agroecologie-au-college-et-au-lycee/"
+      kind: page
+      children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
