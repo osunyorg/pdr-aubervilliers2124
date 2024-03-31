@@ -69,6 +69,10 @@ items:
   target: "/apprendre/"
   kind: page
   children:
+  - title: 'Des parcours dès 12 ans pour s''insérer dans la vie locale '
+    target: "/apprendre/des-parcours-des-12-ans-pour-sinserer-dans-la-vie-locale/"
+    kind: page
+    children: []
   - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
     target: "/apprendre/enfance-et-jeunesse/"
     kind: page
@@ -79,10 +83,6 @@ items:
   children: []
 - title: Le projet
   target: "/le-projet/"
-  kind: page
-  children: []
-- title: 'Des parcours dès 12 ans pour s''insérer dans la vie locale '
-  target: "/des-parcours-des-12-ans-pour-sinserer-dans-la-vie-locale/"
   kind: page
   children: []
 
