@@ -81,6 +81,10 @@ items:
       target: "/me-nourrir/les-lieux-d-apprentissage/l-agroecologie-au-college-et-au-lycee/"
       kind: page
       children: []
+  - title: Les lieux nourriciers
+    target: "/me-nourrir/les-lieux-nourriciers/"
+    kind: page
+    children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
