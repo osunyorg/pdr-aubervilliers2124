@@ -49,16 +49,16 @@ items:
   target: "/me-nourrir/"
   kind: page
   children:
-  - title: Les lieux d'apprentissage
-    target: "/me-nourrir/les-lieux-d-apprentissage/"
+  - title: Apprentissage et production collective
+    target: "/me-nourrir/apprentissage-et-production-collective/"
     kind: page
     children:
     - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
-      target: "/me-nourrir/les-lieux-d-apprentissage/enfance-et-jeunesse/"
+      target: "/me-nourrir/apprentissage-et-production-collective/enfance-et-jeunesse/"
       kind: page
       children: []
     - title: L'agroécologie au collège et au lycée
-      target: "/me-nourrir/les-lieux-d-apprentissage/l-agroecologie-au-college-et-au-lycee/"
+      target: "/me-nourrir/apprentissage-et-production-collective/l-agroecologie-au-college-et-au-lycee/"
       kind: page
       children: []
   - title: Les lieux nourriciers
