@@ -5,24 +5,24 @@ items:
   target: "/municipalite/"
   kind: page
   children:
-  - title: L'histoire d'Aubervilliers
-    target: "/municipalite/lhistoire/"
+  - title: Gouvernance
+    target: "/municipalite/gouvernance/"
     kind: page
     children:
     - title: Histoire d'Aubervilliers des cent dernières années
-      target: "/municipalite/lhistoire/histoire-daubervilliers-des-cent-dernieres-annees/"
+      target: "/municipalite/gouvernance/histoire-daubervilliers-des-cent-dernieres-annees/"
       kind: page
       children: []
     - title: Urbanisme et gouvernance
-      target: "/municipalite/lhistoire/urbanisme-et-gouvernance/"
+      target: "/municipalite/gouvernance/urbanisme-et-gouvernance/"
       kind: page
       children: []
     - title: Archives officielles
-      target: "/municipalite/lhistoire/archives-officielles/"
+      target: "/municipalite/gouvernance/archives-officielles/"
       kind: page
       children: []
     - title: Les plans
-      target: "/municipalite/lhistoire/les-plans/"
+      target: "/municipalite/gouvernance/les-plans/"
       kind: page
       children: []
   - title: Ma vie de citoyen·ne
