@@ -108,5 +108,9 @@ items:
 - title: Mon quartier
   target: "/mon-quartier/"
   kind: page
-  children: []
+  children:
+  - title: Maladrerie
+    target: "/mon-quartier/maladrerie/"
+    kind: page
+    children: []
 
