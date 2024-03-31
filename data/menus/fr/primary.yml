@@ -9,8 +9,8 @@ items:
     target: "/municipalite/gouvernance/"
     kind: page
     children:
-    - title: Histoire d'Aubervilliers des cent dernières années
-      target: "/municipalite/gouvernance/histoire-daubervilliers-des-cent-dernieres-annees/"
+    - title: Cent ans d'histoire
+      target: "/municipalite/gouvernance/cent-ans-d-histoire/"
       kind: page
       children: []
     - title: Urbanisme et gouvernance
