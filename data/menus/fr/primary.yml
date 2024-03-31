@@ -85,4 +85,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: L'origine du cimetière-verger
+  target: "/lorigine-du-cimetiere-verger/"
+  kind: page
+  children: []
 
