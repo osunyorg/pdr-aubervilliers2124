@@ -42,7 +42,7 @@ items:
       kind: page
       children: []
     - title: Aubervilliers Libre
-      target: "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-aujourdhui/"
+      target: "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
       kind: page
       children: []
     - title: Agenda
