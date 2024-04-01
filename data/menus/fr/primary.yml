@@ -89,8 +89,8 @@ items:
       target: "/me-nourrir/les-lieux-nourriciers/le-reseau-de-distribution-alimentaire/"
       kind: page
       children: []
-    - title: L'origine du cimetière-verger
-      target: "/me-nourrir/les-lieux-nourriciers/lorigine-du-cimetiere-verger/"
+    - title: Le cimetière-verger
+      target: "/me-nourrir/les-lieux-nourriciers/le-cimetiere-verger/"
       kind: page
       children: []
 - title: Me déplacer
