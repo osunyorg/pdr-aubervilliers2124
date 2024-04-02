@@ -89,6 +89,10 @@ items:
       target: "/me-nourrir/les-lieux-nourriciers/le-cimetiere-verger/"
       kind: page
       children: []
+- title: Urbanisme nourricier
+  target: "/urbanisme-nourricier/"
+  kind: page
+  children: []
 - title: Mon quartier
   target: "/mon-quartier/"
   kind: page
@@ -107,10 +111,6 @@ items:
   children: []
 - title: Le projet
   target: "/le-projet/"
-  kind: page
-  children: []
-- title: Urbanisme nourricier
-  target: "/urbanisme-nourricier/"
   kind: page
   children: []
 
