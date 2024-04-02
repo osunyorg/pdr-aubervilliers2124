@@ -121,6 +121,10 @@ items:
     target: "/mon-quartier/mairie-escargot/"
     kind: page
     children: []
+  - title: Landy
+    target: "/mon-quartier/landy/"
+    kind: page
+    children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
