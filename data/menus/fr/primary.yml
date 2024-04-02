@@ -109,4 +109,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: Urbanisme nourricier
+  target: "/urbanisme-nourricier/"
+  kind: page
+  children: []
 
