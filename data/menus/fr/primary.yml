@@ -13,10 +13,6 @@ items:
       target: "/municipalite/gouvernance/principes-d-organisation/"
       kind: page
       children: []
-    - title: Plans
-      target: "/municipalite/gouvernance/plans/"
-      kind: page
-      children: []
     - title: Mille ans d'histoire
       target: "/municipalite/gouvernance/mille-ans-d-histoire/"
       kind: page
