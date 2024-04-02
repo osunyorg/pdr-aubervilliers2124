@@ -117,30 +117,6 @@ items:
     target: "/urbanisme-nourricier/metiers-de-lurbanisme/"
     kind: page
     children: []
-- title: Mon quartier
-  target: "/mon-quartier/"
-  kind: page
-  children:
-  - title: Maladrerie
-    target: "/mon-quartier/maladrerie/"
-    kind: page
-    children: []
-  - title: Mairie-Escargot
-    target: "/mon-quartier/mairie-escargot/"
-    kind: page
-    children: []
-  - title: Landy
-    target: "/mon-quartier/landy/"
-    kind: page
-    children: []
-  - title: 4 Chemins
-    target: "/mon-quartier/4-chemins/"
-    kind: page
-    children: []
-  - title: Sadi Carnot
-    target: "/mon-quartier/sadi-carnot/"
-    kind: page
-    children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
