@@ -141,4 +141,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: Galerie de portraits
+  target: "/galerie-de-portraits/"
+  kind: page
+  children: []
 
