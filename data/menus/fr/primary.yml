@@ -129,6 +129,10 @@ items:
     target: "/mon-quartier/4-chemins/"
     kind: page
     children: []
+  - title: Sadi Carnot
+    target: "/mon-quartier/sadi-carnot/"
+    kind: page
+    children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
