@@ -93,14 +93,14 @@ items:
   target: "/mon-quartier/"
   kind: page
   children:
+  - title: Suivre l'actualité dans mon quartier
+    target: "/mon-quartier/suivre-lactualite-dans-mon-quartier/"
+    kind: page
+    children: []
   - title: Maladrerie
     target: "/mon-quartier/maladrerie/"
     kind: page
     children: []
-- title: Suivre l'actualité dans mon quartier
-  target: "/suivre-lactualite-dans-mon-quartier/"
-  kind: page
-  children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
