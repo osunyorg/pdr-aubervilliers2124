@@ -45,6 +45,22 @@ items:
       target: "/municipalite/ma-vie-de-citoyen-ne/agenda/"
       kind: page
       children: []
+- title: Urbanisme nourricier
+  target: "/urbanisme-nourricier/"
+  kind: page
+  children:
+  - title: Métabolismes urbains
+    target: "/urbanisme-nourricier/metabolismes-urbains/"
+    kind: page
+    children: []
+  - title: Rues agricoles
+    target: "/urbanisme-nourricier/rues-agricoles/"
+    kind: page
+    children: []
+  - title: Métiers de l'urbanisme
+    target: "/urbanisme-nourricier/metiers-de-lurbanisme/"
+    kind: page
+    children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
@@ -89,22 +105,6 @@ items:
       target: "/me-nourrir/les-lieux-nourriciers/le-cimetiere-verger/"
       kind: page
       children: []
-- title: Urbanisme nourricier
-  target: "/urbanisme-nourricier/"
-  kind: page
-  children:
-  - title: Métabolismes urbains
-    target: "/urbanisme-nourricier/metabolismes-urbains/"
-    kind: page
-    children: []
-  - title: Rues agricoles
-    target: "/urbanisme-nourricier/rues-agricoles/"
-    kind: page
-    children: []
-  - title: Métiers de l'urbanisme
-    target: "/urbanisme-nourricier/metiers-de-lurbanisme/"
-    kind: page
-    children: []
 - title: Mon quartier
   target: "/mon-quartier/"
   kind: page
