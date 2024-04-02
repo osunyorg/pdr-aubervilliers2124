@@ -28,95 +28,15 @@ items:
   - title: Ma vie de citoyen·ne
     target: "/municipalite/ma-vie-de-citoyen-ne/"
     kind: page
-    children:
-    - title: Charte des rues agricoles
-      target: "/municipalite/ma-vie-de-citoyen-ne/charte-des-rues-agricoles/"
-      kind: page
-      children: []
-    - title: Solidarité & Santé
-      target: "/municipalite/ma-vie-de-citoyen-ne/solidarite-et-sante/"
-      kind: page
-      children: []
-    - title: Aubervilliers Libre
-      target: "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
-      kind: page
-      children: []
-    - title: Agenda
-      target: "/municipalite/ma-vie-de-citoyen-ne/agenda/"
-      kind: page
-      children: []
+    children: []
 - title: Urbanisme nourricier
   target: "/urbanisme-nourricier/"
   kind: page
-  children:
-  - title: Comités inter-quartiers
-    target: "/urbanisme-nourricier/suivre-lactualite-dans-mon-quartier/"
-    kind: page
-    children: []
-  - title: Métabolismes urbains
-    target: "/urbanisme-nourricier/metabolismes-urbains/"
-    kind: page
-    children: []
-  - title: Dépollution
-    target: "/urbanisme-nourricier/depollution/"
-    kind: page
-    children: []
-  - title: Rues agricoles
-    target: "/urbanisme-nourricier/rues-agricoles/"
-    kind: page
-    children: []
-  - title: Métiers de l'urbanisme
-    target: "/urbanisme-nourricier/metiers-de-lurbanisme/"
-    kind: page
-    children: []
+  children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
-  children:
-  - title: Apprentissage et production collective
-    target: "/me-nourrir/apprentissage-et-production-collective/"
-    kind: page
-    children:
-    - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
-      target: "/me-nourrir/apprentissage-et-production-collective/enfance-et-jeunesse/"
-      kind: page
-      children: []
-    - title: L'agroécologie au collège et au lycée
-      target: "/me-nourrir/apprentissage-et-production-collective/l-agroecologie-au-college-et-au-lycee/"
-      kind: page
-      children: []
-    - title: Centre de recherche et de valorisation des savoir-faire agricoles
-      target: "/me-nourrir/apprentissage-et-production-collective/centre-de-recherche-et-de-valorisation-des-savoir-faire-agricoles/"
-      kind: page
-      children: []
-    - title: Galerie de portraits
-      target: "/me-nourrir/apprentissage-et-production-collective/galerie-de-portraits/"
-      kind: page
-      children: []
-  - title: Les lieux nourriciers
-    target: "/me-nourrir/les-lieux-nourriciers/"
-    kind: page
-    children:
-    - title: Ferme Mazier
-      target: "/me-nourrir/les-lieux-nourriciers/ferme-mazier/"
-      kind: page
-      children: []
-    - title: Ferme du Fort d'Aubervilliers
-      target: "/me-nourrir/les-lieux-nourriciers/ferme-du-fort-daubervilliers/"
-      kind: page
-      children: []
-    - title: Jardins partagés
-      target: "/me-nourrir/les-lieux-nourriciers/economie-et-emploi/"
-      kind: page
-      children: []
-    - title: Le réseau de distribution alimentaire
-      target: "/me-nourrir/les-lieux-nourriciers/le-reseau-de-distribution-alimentaire/"
-      kind: page
-      children: []
-    - title: Le cimetière-verger
-      target: "/me-nourrir/les-lieux-nourriciers/le-cimetiere-verger/"
-      kind: page
-      children: []
+  children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
