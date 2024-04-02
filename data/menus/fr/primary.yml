@@ -97,6 +97,10 @@ items:
     target: "/urbanisme-nourricier/metabolismes-urbains/"
     kind: page
     children: []
+  - title: Métiers de l'urbanisme
+    target: "/urbanisme-nourricier/metiers-de-lurbanisme/"
+    kind: page
+    children: []
 - title: Mon quartier
   target: "/mon-quartier/"
   kind: page
