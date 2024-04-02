@@ -101,6 +101,10 @@ items:
     target: "/urbanisme-nourricier/metiers-de-lurbanisme/"
     kind: page
     children: []
+  - title: Rues agricoles
+    target: "/urbanisme-nourricier/rues-agricoles/"
+    kind: page
+    children: []
 - title: Mon quartier
   target: "/mon-quartier/"
   kind: page
