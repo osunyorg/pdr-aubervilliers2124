@@ -113,6 +113,10 @@ items:
     target: "/urbanisme-nourricier/metiers-de-lurbanisme/"
     kind: page
     children: []
+  - title: Dépollution
+    target: "/urbanisme-nourricier/depollution/"
+    kind: page
+    children: []
 - title: Mon quartier
   target: "/mon-quartier/"
   kind: page
