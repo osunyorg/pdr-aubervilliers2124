@@ -125,6 +125,10 @@ items:
     target: "/mon-quartier/landy/"
     kind: page
     children: []
+  - title: 4 Chemins
+    target: "/mon-quartier/4-chemins/"
+    kind: page
+    children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
