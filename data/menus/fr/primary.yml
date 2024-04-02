@@ -49,6 +49,10 @@ items:
   target: "/urbanisme-nourricier/"
   kind: page
   children:
+  - title: Manifeste
+    target: "/urbanisme-nourricier/manifeste/"
+    kind: page
+    children: []
   - title: Comités inter-quartiers
     target: "/urbanisme-nourricier/suivre-lactualite-dans-mon-quartier/"
     kind: page
@@ -67,10 +71,6 @@ items:
     children: []
   - title: Métiers de l'urbanisme
     target: "/urbanisme-nourricier/metiers-de-lurbanisme/"
-    kind: page
-    children: []
-  - title: Manifeste
-    target: "/urbanisme-nourricier/manifeste/"
     kind: page
     children: []
 - title: Me nourrir
