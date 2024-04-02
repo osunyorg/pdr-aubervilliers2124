@@ -49,6 +49,10 @@ items:
   target: "/urbanisme-nourricier/"
   kind: page
   children:
+  - title: Comités inter-quartiers
+    target: "/urbanisme-nourricier/suivre-lactualite-dans-mon-quartier/"
+    kind: page
+    children: []
   - title: Métabolismes urbains
     target: "/urbanisme-nourricier/metabolismes-urbains/"
     kind: page
@@ -109,10 +113,6 @@ items:
   target: "/mon-quartier/"
   kind: page
   children:
-  - title: Suivre l'actualité dans mon quartier
-    target: "/mon-quartier/suivre-lactualite-dans-mon-quartier/"
-    kind: page
-    children: []
   - title: Maladrerie
     target: "/mon-quartier/maladrerie/"
     kind: page
