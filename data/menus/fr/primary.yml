@@ -92,7 +92,11 @@ items:
 - title: Urbanisme nourricier
   target: "/urbanisme-nourricier/"
   kind: page
-  children: []
+  children:
+  - title: Métabolismes urbains
+    target: "/urbanisme-nourricier/metabolismes-urbains/"
+    kind: page
+    children: []
 - title: Mon quartier
   target: "/mon-quartier/"
   kind: page
