@@ -25,4 +25,32 @@ items:
       target: "/municipalite/gouvernance/la-lutte-contre-la-gentrification/"
       kind: page
       children: []
+    - title: Archives officielles
+      target: "/municipalite/gouvernance/archives-officielles/"
+      kind: page
+      children: []
+  - title: Ma vie de citoyen·ne
+    target: "/municipalite/ma-vie-de-citoyen-ne/"
+    kind: page
+    children: []
+- title: Urbanisme nourricier
+  target: "/urbanisme-nourricier/"
+  kind: page
+  children: []
+- title: Education et apprentissage
+  target: "/apprentissage-et-production-collective/"
+  kind: page
+  children: []
+- title: Me nourrir
+  target: "/me-nourrir/"
+  kind: page
+  children: []
+- title: Me déplacer
+  target: "/mobilite/"
+  kind: page
+  children: []
+- title: Le projet
+  target: "/le-projet/"
+  kind: page
+  children: []
 
