@@ -145,4 +145,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: L'oasis de biodiversité ou zone des 300°
+  target: "/loasis-de-biodiversite-ou-zone-des-300/"
+  kind: page
+  children: []
 
