@@ -85,7 +85,7 @@ items:
     target: "/urbanisme-nourricier/depollution/"
     kind: page
     children: []
-  - title: Métiers de l'urbanisme
+  - title: Les nouvelles formes d'urbanisme
     target: "/urbanisme-nourricier/metiers-de-lurbanisme/"
     kind: page
     children: []
