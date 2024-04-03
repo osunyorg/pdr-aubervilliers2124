@@ -73,7 +73,7 @@ items:
     target: "/urbanisme-nourricier/metiers-de-lurbanisme/"
     kind: page
     children: []
-- title: Apprentissage et production collective
+- title: Education et apprentissage
   target: "/apprentissage-et-production-collective/"
   kind: page
   children:
