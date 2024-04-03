@@ -133,6 +133,10 @@ items:
     target: "/mobilite/mobilites-actives-et-transports-en-commun/"
     kind: page
     children: []
+  - title: Cyclologistique
+    target: "/mobilite/cyclologistique/"
+    kind: page
+    children: []
 - title: Le projet
   target: "/le-projet/"
   kind: page
