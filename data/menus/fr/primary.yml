@@ -133,6 +133,10 @@ items:
     target: "/me-nourrir/le-cimetiere-verger/"
     kind: page
     children: []
+  - title: Où se fournir ?
+    target: "/me-nourrir/ou-se-fournir/"
+    kind: page
+    children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
