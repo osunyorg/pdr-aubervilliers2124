@@ -137,6 +137,10 @@ items:
       target: "/me-nourrir/ou-se-fournir/le-cimetiere-verger/"
       kind: page
       children: []
+  - title: Une production volontairement ciblée
+    target: "/me-nourrir/une-production-volontairement-ciblee/"
+    kind: page
+    children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
