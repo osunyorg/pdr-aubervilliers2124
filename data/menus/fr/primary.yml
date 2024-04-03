@@ -45,14 +45,14 @@ items:
       target: "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
       kind: page
       children: []
+    - title: L'oasis de biodiversité ou zone des 300°
+      target: "/municipalite/ma-vie-de-citoyen-ne/loasis-de-biodiversite-ou-zone-des-300/"
+      kind: page
+      children: []
     - title: Agenda
       target: "/municipalite/ma-vie-de-citoyen-ne/agenda/"
       kind: page
       children: []
-  - title: L'oasis de biodiversité ou zone des 300°
-    target: "/municipalite/loasis-de-biodiversite-ou-zone-des-300/"
-    kind: page
-    children: []
 - title: Urbanisme nourricier
   target: "/urbanisme-nourricier/"
   kind: page
