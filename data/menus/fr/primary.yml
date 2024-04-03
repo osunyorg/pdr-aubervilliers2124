@@ -69,16 +69,16 @@ items:
     target: "/urbanisme-nourricier/un-projet-albertivillarien-la-ville-du-tiers/"
     kind: page
     children: []
+  - title: Métabolismes urbains
+    target: "/urbanisme-nourricier/metabolismes-urbains/"
+    kind: page
+    children: []
   - title: Comités inter-quartiers
     target: "/urbanisme-nourricier/suivre-lactualite-dans-mon-quartier/"
     kind: page
     children: []
   - title: Les nouvelles rues agricoles d'Aubervilliers
     target: "/urbanisme-nourricier/les-nouvelles-rues-agricoles-daubervilliers/"
-    kind: page
-    children: []
-  - title: Métabolismes urbains
-    target: "/urbanisme-nourricier/metabolismes-urbains/"
     kind: page
     children: []
   - title: Dépollution
