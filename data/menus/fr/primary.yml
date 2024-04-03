@@ -29,6 +29,10 @@ items:
       target: "/municipalite/gouvernance/archives-officielles/"
       kind: page
       children: []
+    - title: Une nouvelle gouvernance alimentaire pour Aubervilliers
+      target: "/municipalite/gouvernance/une-nouvelle-gouvernance-alimentaire-pour-aubervilliers/"
+      kind: page
+      children: []
   - title: Ma vie de citoyen·ne
     target: "/municipalite/ma-vie-de-citoyen-ne/"
     kind: page
