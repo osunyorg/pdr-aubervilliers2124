@@ -12,7 +12,11 @@ items:
     - title: Principes d'organisation
       target: "/municipalite/gouvernance/principes-d-organisation/"
       kind: page
-      children: []
+      children:
+      - title: 'Aubervilliers, Ville du tiers pionnière '
+        target: "/municipalite/gouvernance/principes-d-organisation/aubervilliers-ville-du-tiers-pionniere/"
+        kind: page
+        children: []
     - title: Mille ans d'histoire
       target: "/municipalite/gouvernance/mille-ans-d-histoire/"
       kind: page
