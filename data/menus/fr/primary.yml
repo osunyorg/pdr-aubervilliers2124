@@ -145,6 +145,10 @@ items:
       target: "/me-nourrir/une-production-volontairement-ciblee/vous-etes-scolarise/"
       kind: page
       children: []
+    - title: Vous êtes en situation précarité
+      target: "/me-nourrir/une-production-volontairement-ciblee/vous-etes-en-situation-precarite/"
+      kind: page
+      children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
