@@ -117,10 +117,6 @@ items:
     target: "/me-nourrir/le-cimetiere-verger/"
     kind: page
     children: []
-  - title: Les lieux nourriciers
-    target: "/me-nourrir/les-lieux-nourriciers/"
-    kind: page
-    children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
