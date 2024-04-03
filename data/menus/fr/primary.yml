@@ -53,6 +53,10 @@ items:
     target: "/urbanisme-nourricier/manifeste/"
     kind: page
     children: []
+  - title: Rues agricoles
+    target: "/urbanisme-nourricier/rues-agricoles/"
+    kind: page
+    children: []
   - title: Comités inter-quartiers
     target: "/urbanisme-nourricier/suivre-lactualite-dans-mon-quartier/"
     kind: page
@@ -63,10 +67,6 @@ items:
     children: []
   - title: Dépollution
     target: "/urbanisme-nourricier/depollution/"
-    kind: page
-    children: []
-  - title: Rues agricoles
-    target: "/urbanisme-nourricier/rues-agricoles/"
     kind: page
     children: []
   - title: Métiers de l'urbanisme
