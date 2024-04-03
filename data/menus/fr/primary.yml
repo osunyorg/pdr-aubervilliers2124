@@ -53,10 +53,6 @@ items:
     target: "/urbanisme-nourricier/manifeste/"
     kind: page
     children: []
-  - title: Rues agricoles
-    target: "/urbanisme-nourricier/rues-agricoles/"
-    kind: page
-    children: []
   - title: Comités inter-quartiers
     target: "/urbanisme-nourricier/suivre-lactualite-dans-mon-quartier/"
     kind: page
@@ -125,16 +121,16 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: Les nouvelles rues agricoles d'Aubervilliers
+  target: "/les-nouvelles-rues-agricoles-daubervilliers/"
+  kind: page
+  children: []
 - title: La lutte contre la gentrification
   target: "/la-lutte-contre-la-gentrification/"
   kind: page
   children: []
 - title: 'Un projet albertivillarien : la ville du tiers'
   target: "/un-projet-albertivillarien-la-ville-du-tiers/"
-  kind: page
-  children: []
-- title: Les nouvelles rues agricoles d'Aubervilliers
-  target: "/les-nouvelles-rues-agricoles-daubervilliers/"
   kind: page
   children: []
 
