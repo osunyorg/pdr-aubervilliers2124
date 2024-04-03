@@ -17,6 +17,10 @@ items:
       target: "/municipalite/gouvernance/mille-ans-d-histoire/"
       kind: page
       children: []
+    - title: Une nouvelle gouvernance alimentaire pour Aubervilliers
+      target: "/municipalite/gouvernance/une-nouvelle-gouvernance-alimentaire-pour-aubervilliers/"
+      kind: page
+      children: []
     - title: Charte de la commune libre d'Aubervilliers
       target: "/municipalite/gouvernance/charte-de-la-commune-libre-daubervilliers/"
       kind: page
@@ -27,10 +31,6 @@ items:
       children: []
     - title: Archives officielles
       target: "/municipalite/gouvernance/archives-officielles/"
-      kind: page
-      children: []
-    - title: Une nouvelle gouvernance alimentaire pour Aubervilliers
-      target: "/municipalite/gouvernance/une-nouvelle-gouvernance-alimentaire-pour-aubervilliers/"
       kind: page
       children: []
   - title: Ma vie de citoyen·ne
