@@ -125,4 +125,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: La lutte contre la gentrification
+  target: "/la-lutte-contre-la-gentrification/"
+  kind: page
+  children: []
 
