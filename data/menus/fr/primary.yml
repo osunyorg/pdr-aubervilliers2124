@@ -9,24 +9,24 @@ items:
     target: "/municipalite/gouvernance/"
     kind: page
     children:
-    - title: Principes d'organisation
-      target: "/municipalite/gouvernance/principes-d-organisation/"
+    - title: Charte de la commune libre d'Aubervilliers
+      target: "/municipalite/gouvernance/charte-de-la-commune-libre-daubervilliers/"
       kind: page
       children: []
-    - title: Mille ans d'histoire
-      target: "/municipalite/gouvernance/mille-ans-d-histoire/"
+    - title: Principes d'organisation
+      target: "/municipalite/gouvernance/principes-d-organisation/"
       kind: page
       children: []
     - title: Une nouvelle gouvernance alimentaire pour Aubervilliers
       target: "/municipalite/gouvernance/une-nouvelle-gouvernance-alimentaire-pour-aubervilliers/"
       kind: page
       children: []
-    - title: Charte de la commune libre d'Aubervilliers
-      target: "/municipalite/gouvernance/charte-de-la-commune-libre-daubervilliers/"
-      kind: page
-      children: []
     - title: La lutte contre la gentrification
       target: "/municipalite/gouvernance/la-lutte-contre-la-gentrification/"
+      kind: page
+      children: []
+    - title: Mille ans d'histoire
+      target: "/municipalite/gouvernance/mille-ans-d-histoire/"
       kind: page
       children: []
     - title: Archives officielles
