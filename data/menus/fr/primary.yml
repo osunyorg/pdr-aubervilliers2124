@@ -129,4 +129,8 @@ items:
   target: "/la-lutte-contre-la-gentrification/"
   kind: page
   children: []
+- title: 'Un projet albertivillarien : la ville du tiers'
+  target: "/un-projet-albertivillarien-la-ville-du-tiers/"
+  kind: page
+  children: []
 
