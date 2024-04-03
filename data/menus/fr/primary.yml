@@ -77,26 +77,6 @@ items:
   target: "/me-nourrir/"
   kind: page
   children:
-  - title: Apprentissage et production collective
-    target: "/me-nourrir/apprentissage-et-production-collective/"
-    kind: page
-    children:
-    - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
-      target: "/me-nourrir/apprentissage-et-production-collective/enfance-et-jeunesse/"
-      kind: page
-      children: []
-    - title: L'agroécologie au collège et au lycée
-      target: "/me-nourrir/apprentissage-et-production-collective/l-agroecologie-au-college-et-au-lycee/"
-      kind: page
-      children: []
-    - title: Centre de recherche et de valorisation des savoir-faire agricoles
-      target: "/me-nourrir/apprentissage-et-production-collective/centre-de-recherche-et-de-valorisation-des-savoir-faire-agricoles/"
-      kind: page
-      children: []
-    - title: Galerie de portraits
-      target: "/me-nourrir/apprentissage-et-production-collective/galerie-de-portraits/"
-      kind: page
-      children: []
   - title: Les lieux nourriciers
     target: "/me-nourrir/les-lieux-nourriciers/"
     kind: page
@@ -121,6 +101,26 @@ items:
       target: "/me-nourrir/les-lieux-nourriciers/le-cimetiere-verger/"
       kind: page
       children: []
+- title: Apprentissage et production collective
+  target: "/apprentissage-et-production-collective/"
+  kind: page
+  children:
+  - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
+    target: "/apprentissage-et-production-collective/enfance-et-jeunesse/"
+    kind: page
+    children: []
+  - title: L'agroécologie au collège et au lycée
+    target: "/apprentissage-et-production-collective/l-agroecologie-au-college-et-au-lycee/"
+    kind: page
+    children: []
+  - title: Centre de recherche et de valorisation des savoir-faire agricoles
+    target: "/apprentissage-et-production-collective/centre-de-recherche-et-de-valorisation-des-savoir-faire-agricoles/"
+    kind: page
+    children: []
+  - title: Galerie de portraits
+    target: "/apprentissage-et-production-collective/galerie-de-portraits/"
+    kind: page
+    children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
