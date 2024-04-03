@@ -57,6 +57,10 @@ items:
     target: "/urbanisme-nourricier/suivre-lactualite-dans-mon-quartier/"
     kind: page
     children: []
+  - title: Les nouvelles rues agricoles d'Aubervilliers
+    target: "/urbanisme-nourricier/les-nouvelles-rues-agricoles-daubervilliers/"
+    kind: page
+    children: []
   - title: Métabolismes urbains
     target: "/urbanisme-nourricier/metabolismes-urbains/"
     kind: page
@@ -119,10 +123,6 @@ items:
   children: []
 - title: Le projet
   target: "/le-projet/"
-  kind: page
-  children: []
-- title: Les nouvelles rues agricoles d'Aubervilliers
-  target: "/les-nouvelles-rues-agricoles-daubervilliers/"
   kind: page
   children: []
 - title: La lutte contre la gentrification
