@@ -140,7 +140,11 @@ items:
   - title: Une production volontairement ciblée
     target: "/me-nourrir/une-production-volontairement-ciblee/"
     kind: page
-    children: []
+    children:
+    - title: Vous êtes scolarisé
+      target: "/me-nourrir/une-production-volontairement-ciblee/vous-etes-scolarise/"
+      kind: page
+      children: []
 - title: Me déplacer
   target: "/mobilite/"
   kind: page
