@@ -85,6 +85,10 @@ items:
     target: "/urbanisme-nourricier/depollution/"
     kind: page
     children: []
+  - title: Galerie de portraits
+    target: "/urbanisme-nourricier/galerie-de-portraits/"
+    kind: page
+    children: []
   - title: Les nouvelles formes d'urbanisme
     target: "/urbanisme-nourricier/metiers-de-lurbanisme/"
     kind: page
@@ -103,10 +107,6 @@ items:
     children: []
   - title: Centre de recherche et de valorisation des savoir-faire agricoles
     target: "/apprentissage-et-production-collective/centre-de-recherche-et-de-valorisation-des-savoir-faire-agricoles/"
-    kind: page
-    children: []
-  - title: Galerie de portraits
-    target: "/apprentissage-et-production-collective/galerie-de-portraits/"
     kind: page
     children: []
 - title: Me nourrir
