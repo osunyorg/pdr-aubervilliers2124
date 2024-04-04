@@ -69,7 +69,7 @@ items:
     target: "/urbanisme-nourricier/un-projet-albertivillarien-la-ville-du-tiers/"
     kind: page
     children: []
-  - title: Métabolismes urbains
+  - title: Le nouveau métabolisme urbain d'Aubervilliers
     target: "/urbanisme-nourricier/metabolismes-urbains/"
     kind: page
     children: []
@@ -113,6 +113,14 @@ items:
   target: "/me-nourrir/"
   kind: page
   children:
+  - title: L'approvisionnement de la commune
+    target: "/me-nourrir/lapprovisionnement-de-la-commune/"
+    kind: page
+    children:
+    - title: 'Le canal, une nouvelle centralité aménagée '
+      target: "/me-nourrir/lapprovisionnement-de-la-commune/le-canal-une-nouvelle-centralite-amenagee/"
+      kind: page
+      children: []
   - title: Où se fournir ?
     target: "/me-nourrir/ou-se-fournir/"
     kind: page
