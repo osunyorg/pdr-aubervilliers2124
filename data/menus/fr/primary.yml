@@ -9,12 +9,12 @@ items:
     target: "/municipalite/gouvernance/"
     kind: page
     children:
-    - title: La ville du tiers
-      target: "/municipalite/gouvernance/la-ville-du-tiers/"
-      kind: page
-      children: []
     - title: Principes d'organisation
       target: "/municipalite/gouvernance/principes-d-organisation/"
+      kind: page
+      children: []
+    - title: La ville du tiers
+      target: "/municipalite/gouvernance/la-ville-du-tiers/"
       kind: page
       children: []
     - title: Une nouvelle gouvernance alimentaire pour Aubervilliers
