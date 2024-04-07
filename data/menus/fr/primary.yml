@@ -69,10 +69,6 @@ items:
     target: "/urbanisme-nourricier/metabolismes-urbains/"
     kind: page
     children: []
-  - title: Comités inter-quartiers
-    target: "/urbanisme-nourricier/suivre-lactualite-dans-mon-quartier/"
-    kind: page
-    children: []
   - title: Les rues agricoles d'Aubervilliers, un Commun ambitieux !
     target: "/urbanisme-nourricier/les-nouvelles-rues-agricoles-daubervilliers/"
     kind: page
