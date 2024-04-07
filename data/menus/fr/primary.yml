@@ -52,7 +52,11 @@ items:
     - title: Mobilités actives et transports en commun
       target: "/municipalite/ma-vie-de-citoyen-ne/mobilites-actives-et-transports-en-commun/"
       kind: page
-      children: []
+      children:
+      - title: 'Cyclo Logistique '
+        target: "/municipalite/ma-vie-de-citoyen-ne/mobilites-actives-et-transports-en-commun/cyclo-logistique/"
+        kind: page
+        children: []
     - title: Solidarité & Santé
       target: "/municipalite/ma-vie-de-citoyen-ne/solidarite-et-sante/"
       kind: page
@@ -143,10 +147,6 @@ items:
       children: []
 - title: Le projet
   target: "/le-projet/"
-  kind: page
-  children: []
-- title: 'Cyclo Logistique '
-  target: "/cyclo-logistique/"
   kind: page
   children: []
 
