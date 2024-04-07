@@ -89,22 +89,6 @@ items:
     target: "/urbanisme-nourricier/metiers-de-lurbanisme/"
     kind: page
     children: []
-- title: Education et apprentissage
-  target: "/apprentissage-et-production-collective/"
-  kind: page
-  children:
-  - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
-    target: "/apprentissage-et-production-collective/enfance-et-jeunesse/"
-    kind: page
-    children: []
-  - title: L'agroécologie au collège et au lycée
-    target: "/apprentissage-et-production-collective/l-agroecologie-au-college-et-au-lycee/"
-    kind: page
-    children: []
-  - title: Centre de recherche et de valorisation des savoir-faire agricoles
-    target: "/apprentissage-et-production-collective/centre-de-recherche-et-de-valorisation-des-savoir-faire-agricoles/"
-    kind: page
-    children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
@@ -151,6 +135,22 @@ items:
       children: []
     - title: Vous êtes en situation précarité
       target: "/me-nourrir/une-production-volontairement-ciblee/vous-etes-en-situation-precarite/"
+      kind: page
+      children: []
+  - title: Education et apprentissage
+    target: "/me-nourrir/apprentissage-et-production-collective/"
+    kind: page
+    children:
+    - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
+      target: "/me-nourrir/apprentissage-et-production-collective/enfance-et-jeunesse/"
+      kind: page
+      children: []
+    - title: L'agroécologie au collège et au lycée
+      target: "/me-nourrir/apprentissage-et-production-collective/l-agroecologie-au-college-et-au-lycee/"
+      kind: page
+      children: []
+    - title: Centre de recherche et de valorisation des savoir-faire agricoles
+      target: "/me-nourrir/apprentissage-et-production-collective/centre-de-recherche-et-de-valorisation-des-savoir-faire-agricoles/"
       kind: page
       children: []
 - title: Me déplacer
