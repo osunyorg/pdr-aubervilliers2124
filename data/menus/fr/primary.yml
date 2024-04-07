@@ -137,16 +137,16 @@ items:
       target: "/me-nourrir/apprentissage-et-production-collective/enfance-et-jeunesse/"
       kind: page
       children: []
-    - title: L'agroécologie au collège et au lycée
-      target: "/me-nourrir/apprentissage-et-production-collective/l-agroecologie-au-college-et-au-lycee/"
-      kind: page
-      children: []
     - title: Centre de recherche et de valorisation des savoir-faire agricoles
       target: "/me-nourrir/apprentissage-et-production-collective/centre-de-recherche-et-de-valorisation-des-savoir-faire-agricoles/"
       kind: page
       children: []
 - title: Le projet
   target: "/le-projet/"
+  kind: page
+  children: []
+- title: L'agroécologie au collège et au lycée
+  target: "/l-agroecologie-au-college-et-au-lycee/"
   kind: page
   children: []
 
