@@ -145,4 +145,8 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: 'Cyclo Logistique '
+  target: "/cyclo-logistique/"
+  kind: page
+  children: []
 
