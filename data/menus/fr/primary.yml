@@ -93,10 +93,6 @@ items:
       target: "/municipalite/urbanisme-nourricier/galerie-de-portraits/"
       kind: page
       children: []
-    - title: Les nouvelles formes d'urbanisme
-      target: "/municipalite/urbanisme-nourricier/metiers-de-lurbanisme/"
-      kind: page
-      children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
