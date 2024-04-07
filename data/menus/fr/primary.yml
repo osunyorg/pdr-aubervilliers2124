@@ -65,8 +65,8 @@ items:
     target: "/urbanisme-nourricier/manifeste/"
     kind: page
     children: []
-  - title: 'Un projet albertivillarien : la ville du tiers'
-    target: "/urbanisme-nourricier/un-projet-albertivillarien-la-ville-du-tiers/"
+  - title: La ville du tiers
+    target: "/urbanisme-nourricier/la-ville-du-tiers/"
     kind: page
     children: []
   - title: Le nouveau métabolisme urbain d'Aubervilliers
