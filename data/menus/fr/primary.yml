@@ -113,10 +113,6 @@ items:
       target: "/me-nourrir/ou-se-fournir/le-reseau-de-distribution-alimentaire/"
       kind: page
       children: []
-    - title: Jardins partagés
-      target: "/me-nourrir/ou-se-fournir/economie-et-emploi/"
-      kind: page
-      children: []
     - title: Ferme du Fort d'Aubervilliers
       target: "/me-nourrir/ou-se-fournir/ferme-du-fort-daubervilliers/"
       kind: page
