@@ -20,3 +20,11 @@ header#document-header
         .nav-level-2
             @include media-breakpoint-up(desktop)
                 grid-template-columns: repeat(3, 1fr) !important
+
+.block-pages
+    &--large
+        .page
+            &:nth-child(even)
+                @include media-breakpoint-up(desktop)
+                    flex-direction: row-reverse
+                    justify-content: space-between
