@@ -49,16 +49,16 @@ items:
       target: "/municipalite/ma-vie-de-citoyen-ne/solidarite-et-sante/"
       kind: page
       children: []
-    - title: Aubervilliers Libre
-      target: "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
-      kind: page
-      children: []
     - title: L'oasis de biodiversité
       target: "/municipalite/ma-vie-de-citoyen-ne/loasis-de-biodiversite/"
       kind: page
       children: []
     - title: Mobilités actives et transports en commun
       target: "/municipalite/ma-vie-de-citoyen-ne/mobilites-actives-et-transports-en-commun/"
+      kind: page
+      children: []
+    - title: Aubervilliers Libre
+      target: "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
       kind: page
       children: []
     - title: Agenda
