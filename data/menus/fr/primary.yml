@@ -77,6 +77,10 @@ items:
     target: "/urbanisme-nourricier/manifeste/"
     kind: page
     children: []
+  - title: Galerie de portraits
+    target: "/urbanisme-nourricier/galerie-de-portraits/"
+    kind: page
+    children: []
   - title: Le nouveau métabolisme urbain d'Aubervilliers
     target: "/urbanisme-nourricier/metabolismes-urbains/"
     kind: page
@@ -87,10 +91,6 @@ items:
     children: []
   - title: Dépollution
     target: "/urbanisme-nourricier/depollution/"
-    kind: page
-    children: []
-  - title: Galerie de portraits
-    target: "/urbanisme-nourricier/galerie-de-portraits/"
     kind: page
     children: []
 - title: Me nourrir
