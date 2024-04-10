@@ -41,10 +41,6 @@ items:
     target: "/municipalite/ma-vie-de-citoyen-ne/"
     kind: page
     children:
-    - title: Charte des rues agricoles
-      target: "/municipalite/ma-vie-de-citoyen-ne/charte-des-rues-agricoles/"
-      kind: page
-      children: []
     - title: L'oasis de biodiversité
       target: "/municipalite/ma-vie-de-citoyen-ne/loasis-de-biodiversite/"
       kind: page
