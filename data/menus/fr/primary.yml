@@ -69,30 +69,30 @@ items:
       target: "/municipalite/ma-vie-de-citoyen-ne/agenda/"
       kind: page
       children: []
-  - title: Urbanisme nourricier
-    target: "/municipalite/urbanisme-nourricier/"
+- title: Urbanisme nourricier
+  target: "/urbanisme-nourricier/"
+  kind: page
+  children:
+  - title: Manifeste
+    target: "/urbanisme-nourricier/manifeste/"
     kind: page
-    children:
-    - title: Manifeste
-      target: "/municipalite/urbanisme-nourricier/manifeste/"
-      kind: page
-      children: []
-    - title: Le nouveau métabolisme urbain d'Aubervilliers
-      target: "/municipalite/urbanisme-nourricier/metabolismes-urbains/"
-      kind: page
-      children: []
-    - title: Les rues agricoles d'Aubervilliers
-      target: "/municipalite/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
-      kind: page
-      children: []
-    - title: Dépollution
-      target: "/municipalite/urbanisme-nourricier/depollution/"
-      kind: page
-      children: []
-    - title: Galerie de portraits
-      target: "/municipalite/urbanisme-nourricier/galerie-de-portraits/"
-      kind: page
-      children: []
+    children: []
+  - title: Le nouveau métabolisme urbain d'Aubervilliers
+    target: "/urbanisme-nourricier/metabolismes-urbains/"
+    kind: page
+    children: []
+  - title: Les rues agricoles d'Aubervilliers
+    target: "/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
+    kind: page
+    children: []
+  - title: Dépollution
+    target: "/urbanisme-nourricier/depollution/"
+    kind: page
+    children: []
+  - title: Galerie de portraits
+    target: "/urbanisme-nourricier/galerie-de-portraits/"
+    kind: page
+    children: []
 - title: Me nourrir
   target: "/me-nourrir/"
   kind: page
