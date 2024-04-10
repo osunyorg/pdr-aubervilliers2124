@@ -61,10 +61,6 @@ items:
       target: "/municipalite/ma-vie-de-citoyen-ne/solidarite-et-sante/"
       kind: page
       children: []
-    - title: Aubervilliers Libre
-      target: "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
-      kind: page
-      children: []
     - title: Agenda
       target: "/municipalite/ma-vie-de-citoyen-ne/agenda/"
       kind: page
