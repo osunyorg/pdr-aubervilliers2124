@@ -109,8 +109,8 @@ items:
       target: "/me-nourrir/urbanisme-nourricier/manifeste/"
       kind: page
       children: []
-    - title: Galerie de portraits
-      target: "/me-nourrir/urbanisme-nourricier/galerie-de-portraits/"
+    - title: A la rencontre des habitants et habitantes d'Aubervilliers
+      target: "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
       kind: page
       children: []
     - title: Le nouveau métabolisme urbain d'Aubervilliers
