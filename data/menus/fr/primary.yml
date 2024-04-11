@@ -49,10 +49,6 @@ items:
       target: "/municipalite/ma-vie-de-citoyen-ne/mobilites-actives-et-transports-en-commun/"
       kind: page
       children: []
-    - title: Solidarité & Santé
-      target: "/municipalite/ma-vie-de-citoyen-ne/solidarite-et-sante/"
-      kind: page
-      children: []
     - title: Aubervilliers Libre
       target: "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
       kind: page
