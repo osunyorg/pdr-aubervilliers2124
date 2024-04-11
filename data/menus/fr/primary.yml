@@ -69,12 +69,12 @@ items:
     target: "/me-nourrir/lapprovisionnement-de-la-commune/"
     kind: page
     children:
-    - title: Le réseau de distribution alimentaire
-      target: "/me-nourrir/lapprovisionnement-de-la-commune/le-reseau-de-distribution-alimentaire/"
-      kind: page
-      children: []
     - title: 'Le canal, une nouvelle centralité aménagée '
       target: "/me-nourrir/lapprovisionnement-de-la-commune/le-canal-une-nouvelle-centralite-amenagee/"
+      kind: page
+      children: []
+    - title: Le réseau de distribution alimentaire
+      target: "/me-nourrir/lapprovisionnement-de-la-commune/le-reseau-de-distribution-alimentaire/"
       kind: page
       children: []
   - title: Où se fournir ?
