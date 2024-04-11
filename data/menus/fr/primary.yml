@@ -73,14 +73,14 @@ items:
       target: "/me-nourrir/lapprovisionnement-de-la-commune/le-canal-une-nouvelle-centralite-amenagee/"
       kind: page
       children: []
+  - title: Le réseau de distribution alimentaire
+    target: "/me-nourrir/le-reseau-de-distribution-alimentaire/"
+    kind: page
+    children: []
   - title: Où se fournir ?
     target: "/me-nourrir/ou-se-fournir/"
     kind: page
     children:
-    - title: Le réseau de distribution alimentaire
-      target: "/me-nourrir/ou-se-fournir/le-reseau-de-distribution-alimentaire/"
-      kind: page
-      children: []
     - title: Ferme du Fort d'Aubervilliers
       target: "/me-nourrir/ou-se-fournir/ferme-du-fort-daubervilliers/"
       kind: page
