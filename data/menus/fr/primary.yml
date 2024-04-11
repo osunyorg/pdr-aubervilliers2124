@@ -108,34 +108,14 @@ items:
   - title: Urbanisme nourricier
     target: "/me-nourrir/urbanisme-nourricier/"
     kind: page
-    children:
-    - title: Manifeste
-      target: "/me-nourrir/urbanisme-nourricier/manifeste/"
-      kind: page
-      children: []
-    - title: A la rencontre des habitants et habitantes d'Aubervilliers
-      target: "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
-      kind: page
-      children: []
-    - title: Le nouveau métabolisme urbain d'Aubervilliers
-      target: "/me-nourrir/urbanisme-nourricier/metabolismes-urbains/"
-      kind: page
-      children: []
-    - title: Les rues agricoles d'Aubervilliers
-      target: "/me-nourrir/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
-      kind: page
-      children: []
-    - title: Dépollution
-      target: "/me-nourrir/urbanisme-nourricier/depollution/"
-      kind: page
-      children: []
-- title: Le projet
-  target: "/le-projet/"
-  kind: page
-  children: []
+    children: []
 - title: 'Nourrir notre communauté : points clés de la sélection des bénéficiaires
     des récoltes locales'
-  target: "/nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales/"
+  target: "/me-nourrir/nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales/"
+  kind: page
+  children: []
+- title: Le projet
+  target: "/le-projet/"
   kind: page
   children: []
 - title: Qu’est-ce qu’un urbaniste dans une ville nourricière
