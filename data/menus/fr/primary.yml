@@ -33,10 +33,6 @@ items:
       target: "/municipalite/gouvernance/charte/"
       kind: page
       children: []
-    - title: Archives officielles
-      target: "/municipalite/gouvernance/archives-officielles/"
-      kind: page
-      children: []
   - title: Ma vie de citoyen·ne
     target: "/municipalite/ma-vie-de-citoyen-ne/"
     kind: page
