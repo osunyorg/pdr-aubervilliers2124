@@ -138,4 +138,8 @@ items:
   target: "/nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales/"
   kind: page
   children: []
+- title: Qu’est-ce qu’un urbaniste dans une ville nourricière
+  target: "/quest-ce-quun-urbaniste-dans-une-ville-nourriciere/"
+  kind: page
+  children: []
 
