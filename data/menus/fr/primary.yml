@@ -122,6 +122,10 @@ items:
       target: "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
       kind: page
       children: []
+    - title: Qu’est-ce qu’un urbaniste dans une ville nourricière
+      target: "/me-nourrir/urbanisme-nourricier/quest-ce-quun-urbaniste-dans-une-ville-nourriciere/"
+      kind: page
+      children: []
     - title: Le nouveau métabolisme urbain d'Aubervilliers
       target: "/me-nourrir/urbanisme-nourricier/metabolismes-urbains/"
       kind: page
@@ -136,10 +140,6 @@ items:
       children: []
 - title: Le projet
   target: "/le-projet/"
-  kind: page
-  children: []
-- title: Qu’est-ce qu’un urbaniste dans une ville nourricière
-  target: "/quest-ce-quun-urbaniste-dans-une-ville-nourriciere/"
   kind: page
   children: []
 
