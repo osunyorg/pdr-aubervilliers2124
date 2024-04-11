@@ -133,4 +133,9 @@ items:
   target: "/le-projet/"
   kind: page
   children: []
+- title: 'Nourrir notre communauté : points clés de la sélection des bénéficiaires
+    des récoltes locales'
+  target: "/nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales/"
+  kind: page
+  children: []
 
