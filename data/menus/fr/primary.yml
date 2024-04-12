@@ -33,6 +33,10 @@ items:
       target: "/municipalite/gouvernance/charte/"
       kind: page
       children: []
+    - title: Plans
+      target: "/municipalite/gouvernance/plans/"
+      kind: page
+      children: []
   - title: Ma vie de citoyen·ne
     target: "/municipalite/ma-vie-de-citoyen-ne/"
     kind: page
