@@ -90,18 +90,6 @@ items:
       target: "/me-nourrir/ou-se-fournir/le-cimetiere-verger/"
       kind: page
       children: []
-  - title: Enseignement et recherche
-    target: "/me-nourrir/enseignement-et-recherche/"
-    kind: page
-    children:
-    - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
-      target: "/me-nourrir/enseignement-et-recherche/enfance-et-jeunesse/"
-      kind: page
-      children: []
-    - title: Centre de recherche et de valorisation des savoir-faire agricoles
-      target: "/me-nourrir/enseignement-et-recherche/centre-de-recherche-et-de-valorisation-des-savoir-faire-agricoles/"
-      kind: page
-      children: []
   - title: Urbanisme nourricier
     target: "/me-nourrir/urbanisme-nourricier/"
     kind: page
@@ -112,6 +100,10 @@ items:
       children: []
     - title: A la rencontre des habitants et habitantes d'Aubervilliers
       target: "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
+      kind: page
+      children: []
+    - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
+      target: "/me-nourrir/urbanisme-nourricier/enfance-et-jeunesse/"
       kind: page
       children: []
     - title: Le nouveau métabolisme urbain d'Aubervilliers
