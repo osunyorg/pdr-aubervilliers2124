@@ -12,7 +12,7 @@ fr:
     events: /municipalite/ma-vie-de-citoyen-ne/agenda/:year-:month-:day-:slug/
     events_categories: /municipalite/ma-vie-de-citoyen-ne/agenda/:slug/
     persons: /poubelle/equipe/:slug/
-    persons_categories: /poubelle/equipe/:slug/
+    persons_categories: /poubelle/equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
