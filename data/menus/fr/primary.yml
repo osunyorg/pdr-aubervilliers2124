@@ -122,7 +122,7 @@ items:
       target: "/me-nourrir/urbanisme-nourricier/depollution/"
       kind: page
       children: []
-    - title: Qu’est-ce qu’un urbaniste dans une ville nourricière
+    - title: Qu’est-ce qu’un urbaniste dans une ville nourricière ?
       target: "/me-nourrir/urbanisme-nourricier/quest-ce-quun-urbaniste-dans-une-ville-nourriciere/"
       kind: page
       children: []
