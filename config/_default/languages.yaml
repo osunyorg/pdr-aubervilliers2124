@@ -7,7 +7,8 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
+    contact_details:
+
   permalinks:
     events: /municipalite/ma-vie-de-citoyen-ne/agenda/:year-:month-:day-:slug/
     events_categories: /municipalite/ma-vie-de-citoyen-ne/agenda/:slug/
