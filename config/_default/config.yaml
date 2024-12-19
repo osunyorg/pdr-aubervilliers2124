@@ -8,5 +8,7 @@ params:
   search:
     active: true
   menu:
-    dropdown:
-      linkToLevel1: false
+    primary:
+      level_2:
+        title:
+          active: true
