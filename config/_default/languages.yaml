@@ -10,13 +10,6 @@ fr:
   params:
     contact_details:
 
-  permalinks:
-    events: /municipalite/ma-vie-de-citoyen-ne/agenda/:year/:slug/
-    exhibitions: /expositions/:year-:month-:day-:slug/
-    events_categories: /municipalite/ma-vie-de-citoyen-ne/agenda/:slug/
-    pages_categories: /:slug/
-    persons: /poubelle/equipe/:slug/
-    persons_categories: /poubelle/equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
