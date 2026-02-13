@@ -2,235 +2,354 @@
 title: Menu principal
 items:
 - title: Ma ville
+  slug: ma-ville
   target: "/municipalite/"
   kind: page
   new_tab: false
   children:
   - title: Gouvernance
+    slug: gouvernance
     target: "/municipalite/gouvernance/"
     kind: page
     new_tab: false
     children:
     - title: Principes d'organisation
+      slug: principes-d-organisation
       target: "/municipalite/gouvernance/principes-d-organisation/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/municipalite/gouvernance/principes-d-organisation"
       file: content/fr/pages/municipalite/gouvernance/principes-d-organisation/_index.html
     - title: La ville du tiers
+      slug: la-ville-du-tiers
       target: "/municipalite/gouvernance/la-ville-du-tiers/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/municipalite/gouvernance/la-ville-du-tiers"
       file: content/fr/pages/municipalite/gouvernance/la-ville-du-tiers/_index.html
     - title: Une nouvelle gouvernance alimentaire pour Aubervilliers
+      slug: une-nouvelle-gouvernance-alimentaire-pour-aubervilliers
       target: "/municipalite/gouvernance/une-nouvelle-gouvernance-alimentaire-pour-aubervilliers/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/municipalite/gouvernance/une-nouvelle-gouvernance-alimentaire-pour-aubervilliers"
       file: content/fr/pages/municipalite/gouvernance/une-nouvelle-gouvernance-alimentaire-pour-aubervilliers/_index.html
     - title: La lutte contre la gentrification
+      slug: la-lutte-contre-la-gentrification
       target: "/municipalite/gouvernance/la-lutte-contre-la-gentrification/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/municipalite/gouvernance/la-lutte-contre-la-gentrification"
       file: content/fr/pages/municipalite/gouvernance/la-lutte-contre-la-gentrification/_index.html
     - title: Mille ans d'histoire
+      slug: mille-ans-d-histoire
       target: "/municipalite/gouvernance/mille-ans-d-histoire/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/municipalite/gouvernance/mille-ans-d-histoire"
       file: content/fr/pages/municipalite/gouvernance/mille-ans-d-histoire/_index.html
     - title: Charte de la commune nourricière d'Aubervilliers
+      slug: charte-de-la-commune-nourriciere-d-aubervilliers
       target: "/municipalite/gouvernance/charte/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/municipalite/gouvernance/charte"
       file: content/fr/pages/municipalite/gouvernance/charte/_index.html
     - title: Cartographie d'Aubervilliers en 2124
+      slug: cartographie-d-aubervilliers-en-2124
       target: "/municipalite/gouvernance/cartographie-d-aubervilliers-en-2124/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/municipalite/gouvernance/cartographie-d-aubervilliers-en-2124"
       file: content/fr/pages/municipalite/gouvernance/cartographie-d-aubervilliers-en-2124/_index.html
+    descendants_targets:
+    - "/municipalite/gouvernance/cartographie-d-aubervilliers-en-2124/"
+    - "/municipalite/gouvernance/charte/"
+    - "/municipalite/gouvernance/la-lutte-contre-la-gentrification/"
+    - "/municipalite/gouvernance/la-ville-du-tiers/"
+    - "/municipalite/gouvernance/mille-ans-d-histoire/"
+    - "/municipalite/gouvernance/principes-d-organisation/"
+    - "/municipalite/gouvernance/une-nouvelle-gouvernance-alimentaire-pour-aubervilliers/"
     path: "/pages/municipalite/gouvernance"
     file: content/fr/pages/municipalite/gouvernance/_index.html
   - title: Ma vie de citoyen·ne
+    slug: ma-vie-de-citoyen-ne
     target: "/municipalite/ma-vie-de-citoyen-ne/"
     kind: page
     new_tab: false
     children:
     - title: L'oasis de biodiversité
+      slug: l-oasis-de-biodiversite
       target: "/municipalite/ma-vie-de-citoyen-ne/loasis-de-biodiversite/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/municipalite/ma-vie-de-citoyen-ne/loasis-de-biodiversite"
       file: content/fr/pages/municipalite/ma-vie-de-citoyen-ne/loasis-de-biodiversite/_index.html
     - title: Mobilités actives et transports en commun
+      slug: mobilites-actives-et-transports-en-commun
       target: "/municipalite/ma-vie-de-citoyen-ne/mobilites-actives-et-transports-en-commun/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/municipalite/ma-vie-de-citoyen-ne/mobilites-actives-et-transports-en-commun"
       file: content/fr/pages/municipalite/ma-vie-de-citoyen-ne/mobilites-actives-et-transports-en-commun/_index.html
     - title: Aubervilliers Libre
+      slug: aubervilliers-libre
       target: "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre"
       file: content/fr/pages/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/_index.html
     - title: Agenda
+      slug: agenda
       target: "/municipalite/ma-vie-de-citoyen-ne/agenda/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/events"
       file: content/fr/events/_index.html
+    descendants_targets:
+    - "/municipalite/ma-vie-de-citoyen-ne/agenda/"
+    - "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
+    - "/municipalite/ma-vie-de-citoyen-ne/loasis-de-biodiversite/"
+    - "/municipalite/ma-vie-de-citoyen-ne/mobilites-actives-et-transports-en-commun/"
     path: "/pages/municipalite/ma-vie-de-citoyen-ne"
     file: content/fr/pages/municipalite/ma-vie-de-citoyen-ne/_index.html
+  descendants_targets:
+  - "/municipalite/gouvernance/"
+  - "/municipalite/gouvernance/cartographie-d-aubervilliers-en-2124/"
+  - "/municipalite/gouvernance/charte/"
+  - "/municipalite/gouvernance/la-lutte-contre-la-gentrification/"
+  - "/municipalite/gouvernance/la-ville-du-tiers/"
+  - "/municipalite/gouvernance/mille-ans-d-histoire/"
+  - "/municipalite/gouvernance/principes-d-organisation/"
+  - "/municipalite/gouvernance/une-nouvelle-gouvernance-alimentaire-pour-aubervilliers/"
+  - "/municipalite/ma-vie-de-citoyen-ne/"
+  - "/municipalite/ma-vie-de-citoyen-ne/agenda/"
+  - "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
+  - "/municipalite/ma-vie-de-citoyen-ne/loasis-de-biodiversite/"
+  - "/municipalite/ma-vie-de-citoyen-ne/mobilites-actives-et-transports-en-commun/"
   path: "/pages/municipalite"
   file: content/fr/pages/municipalite/_index.html
 - title: Me nourrir
+  slug: me-nourrir
   target: "/me-nourrir/"
   kind: page
   new_tab: false
   children:
   - title: L'approvisionnement de la commune
+    slug: l-approvisionnement-de-la-commune
     target: "/me-nourrir/lapprovisionnement-de-la-commune/"
     kind: page
     new_tab: false
     children:
     - title: 'Nourrir notre communauté : points clés de la sélection des bénéficiaires
         des récoltes locales'
+      slug: nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales
       target: "/me-nourrir/lapprovisionnement-de-la-commune/nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/lapprovisionnement-de-la-commune/nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales"
       file: content/fr/pages/me-nourrir/lapprovisionnement-de-la-commune/nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales/_index.html
     - title: 'Le canal, une nouvelle centralité aménagée '
+      slug: le-canal-une-nouvelle-centralite-amenagee
       target: "/me-nourrir/lapprovisionnement-de-la-commune/le-canal-une-nouvelle-centralite-amenagee/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/lapprovisionnement-de-la-commune/le-canal-une-nouvelle-centralite-amenagee"
       file: content/fr/pages/me-nourrir/lapprovisionnement-de-la-commune/le-canal-une-nouvelle-centralite-amenagee/_index.html
     - title: Le réseau de distribution alimentaire
+      slug: le-reseau-de-distribution-alimentaire
       target: "/me-nourrir/lapprovisionnement-de-la-commune/le-reseau-de-distribution-alimentaire/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/lapprovisionnement-de-la-commune/le-reseau-de-distribution-alimentaire"
       file: content/fr/pages/me-nourrir/lapprovisionnement-de-la-commune/le-reseau-de-distribution-alimentaire/_index.html
+    descendants_targets:
+    - "/me-nourrir/lapprovisionnement-de-la-commune/le-canal-une-nouvelle-centralite-amenagee/"
+    - "/me-nourrir/lapprovisionnement-de-la-commune/le-reseau-de-distribution-alimentaire/"
+    - "/me-nourrir/lapprovisionnement-de-la-commune/nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales/"
     path: "/pages/me-nourrir/lapprovisionnement-de-la-commune"
     file: content/fr/pages/me-nourrir/lapprovisionnement-de-la-commune/_index.html
   - title: Où se fournir ?
+    slug: ou-se-fournir
     target: "/me-nourrir/ou-se-fournir/"
     kind: page
     new_tab: false
     children:
     - title: Ferme du Fort d'Aubervilliers
+      slug: ferme-du-fort-d-aubervilliers
       target: "/me-nourrir/ou-se-fournir/ferme-du-fort-daubervilliers/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/ou-se-fournir/ferme-du-fort-daubervilliers"
       file: content/fr/pages/me-nourrir/ou-se-fournir/ferme-du-fort-daubervilliers/_index.html
     - title: Ferme Mazier
+      slug: ferme-mazier
       target: "/me-nourrir/ou-se-fournir/ferme-mazier/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/ou-se-fournir/ferme-mazier"
       file: content/fr/pages/me-nourrir/ou-se-fournir/ferme-mazier/_index.html
     - title: Le cimetière-verger
+      slug: le-cimetiere-verger
       target: "/me-nourrir/ou-se-fournir/le-cimetiere-verger/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/ou-se-fournir/le-cimetiere-verger"
       file: content/fr/pages/me-nourrir/ou-se-fournir/le-cimetiere-verger/_index.html
+    descendants_targets:
+    - "/me-nourrir/ou-se-fournir/ferme-du-fort-daubervilliers/"
+    - "/me-nourrir/ou-se-fournir/ferme-mazier/"
+    - "/me-nourrir/ou-se-fournir/le-cimetiere-verger/"
     path: "/pages/me-nourrir/ou-se-fournir"
     file: content/fr/pages/me-nourrir/ou-se-fournir/_index.html
   - title: Urbanisme nourricier
+    slug: urbanisme-nourricier
     target: "/me-nourrir/urbanisme-nourricier/"
     kind: page
     new_tab: false
     children:
     - title: Manifeste
+      slug: manifeste
       target: "/me-nourrir/urbanisme-nourricier/manifeste/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/urbanisme-nourricier/manifeste"
       file: content/fr/pages/me-nourrir/urbanisme-nourricier/manifeste/_index.html
     - title: A la rencontre des habitants et habitantes d'Aubervilliers
+      slug: a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers
       target: "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers"
       file: content/fr/pages/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/_index.html
     - title: 'Une sensibilisation à l''agriculture dès le plus jeune âge '
+      slug: une-sensibilisation-a-l-agriculture-des-le-plus-jeune-age
       target: "/me-nourrir/urbanisme-nourricier/enfance-et-jeunesse/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/urbanisme-nourricier/enfance-et-jeunesse"
       file: content/fr/pages/me-nourrir/urbanisme-nourricier/enfance-et-jeunesse/_index.html
     - title: Le nouveau métabolisme urbain d'Aubervilliers
+      slug: le-nouveau-metabolisme-urbain-d-aubervilliers
       target: "/me-nourrir/urbanisme-nourricier/metabolismes-urbains/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/urbanisme-nourricier/metabolismes-urbains"
       file: content/fr/pages/me-nourrir/urbanisme-nourricier/metabolismes-urbains/_index.html
     - title: Les rues agricoles d'Aubervilliers
+      slug: les-rues-agricoles-d-aubervilliers
       target: "/me-nourrir/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers"
       file: content/fr/pages/me-nourrir/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/_index.html
     - title: Dépollution
+      slug: depollution
       target: "/me-nourrir/urbanisme-nourricier/depollution/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/urbanisme-nourricier/depollution"
       file: content/fr/pages/me-nourrir/urbanisme-nourricier/depollution/_index.html
     - title: Qu’est-ce qu’un urbaniste dans une ville nourricière ?
+      slug: qu-est-ce-qu-un-urbaniste-dans-une-ville-nourriciere
       target: "/me-nourrir/urbanisme-nourricier/quest-ce-quun-urbaniste-dans-une-ville-nourriciere/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/me-nourrir/urbanisme-nourricier/quest-ce-quun-urbaniste-dans-une-ville-nourriciere"
       file: content/fr/pages/me-nourrir/urbanisme-nourricier/quest-ce-quun-urbaniste-dans-une-ville-nourriciere/_index.html
+    descendants_targets:
+    - "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
+    - "/me-nourrir/urbanisme-nourricier/depollution/"
+    - "/me-nourrir/urbanisme-nourricier/enfance-et-jeunesse/"
+    - "/me-nourrir/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
+    - "/me-nourrir/urbanisme-nourricier/manifeste/"
+    - "/me-nourrir/urbanisme-nourricier/metabolismes-urbains/"
+    - "/me-nourrir/urbanisme-nourricier/quest-ce-quun-urbaniste-dans-une-ville-nourriciere/"
     path: "/pages/me-nourrir/urbanisme-nourricier"
     file: content/fr/pages/me-nourrir/urbanisme-nourricier/_index.html
+  descendants_targets:
+  - "/me-nourrir/lapprovisionnement-de-la-commune/"
+  - "/me-nourrir/lapprovisionnement-de-la-commune/le-canal-une-nouvelle-centralite-amenagee/"
+  - "/me-nourrir/lapprovisionnement-de-la-commune/le-reseau-de-distribution-alimentaire/"
+  - "/me-nourrir/lapprovisionnement-de-la-commune/nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales/"
+  - "/me-nourrir/ou-se-fournir/"
+  - "/me-nourrir/ou-se-fournir/ferme-du-fort-daubervilliers/"
+  - "/me-nourrir/ou-se-fournir/ferme-mazier/"
+  - "/me-nourrir/ou-se-fournir/le-cimetiere-verger/"
+  - "/me-nourrir/urbanisme-nourricier/"
+  - "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
+  - "/me-nourrir/urbanisme-nourricier/depollution/"
+  - "/me-nourrir/urbanisme-nourricier/enfance-et-jeunesse/"
+  - "/me-nourrir/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
+  - "/me-nourrir/urbanisme-nourricier/manifeste/"
+  - "/me-nourrir/urbanisme-nourricier/metabolismes-urbains/"
+  - "/me-nourrir/urbanisme-nourricier/quest-ce-quun-urbaniste-dans-une-ville-nourriciere/"
   path: "/pages/me-nourrir"
   file: content/fr/pages/me-nourrir/_index.html
 - title: Le projet
+  slug: le-projet
   target: "/le-projet/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/le-projet"
   file: content/fr/pages/le-projet/_index.html
 - title: Expositions
+  slug: expositions
   target: "/expositions/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/exhibitions"
   file: content/fr/exhibitions/_index.html
 
