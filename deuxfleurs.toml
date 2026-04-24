@@ -15,662 +15,662 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/urbanisme-nourricier/metabolismes-urbains/"
+from = "/urbanisme-nourricier/metabolismes-urbains/index.html"
 to = "/me-nourrir/urbanisme-nourricier/metabolismes-urbains/"
 
 [[redirects]]
-from = "/urbanisme-nourricier/la-ville-du-tiers/"
+from = "/urbanisme-nourricier/la-ville-du-tiers/index.html"
 to = "/municipalite/gouvernance/la-ville-du-tiers/"
 
 [[redirects]]
-from = "/municipalite/urbanisme-nourricier/la-ville-du-tiers/"
+from = "/municipalite/urbanisme-nourricier/la-ville-du-tiers/index.html"
 to = "/municipalite/gouvernance/la-ville-du-tiers/"
 
 [[redirects]]
-from = "/urbanisme-nourricier/"
+from = "/urbanisme-nourricier/index.html"
 to = "/me-nourrir/urbanisme-nourricier/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/poubelle/equipe/equipe-editoriale/"
 
 [[redirects]]
-from = "/equipe/morgane-calliot/"
+from = "/equipe/morgane-calliot/index.html"
 to = "/poubelle/equipe/morgane-calliot/"
 
 [[redirects]]
-from = "/municipalite/au-jour-le-jour/agenda/"
+from = "/municipalite/au-jour-le-jour/agenda/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/"
 
 [[redirects]]
-from = "/nour-rezgui/"
+from = "/nour-rezgui/index.html"
 to = "/poubelle/equipe/nour-rezgui/"
 
 [[redirects]]
-from = "/municipalite/au-jour-le-jour/actualites/"
+from = "/municipalite/au-jour-le-jour/actualites/index.html"
 to = "/poubelle/actualites/"
 
 [[redirects]]
-from = "/equipe/nour-rezgui/"
+from = "/equipe/nour-rezgui/index.html"
 to = "/poubelle/equipe/nour-rezgui/"
 
 [[redirects]]
-from = "/municipalite/au-jour-le-jour/agenda/2124-01-12-100-ans-de-tabou-carbonique/"
+from = "/municipalite/au-jour-le-jour/agenda/2124-01-12-100-ans-de-tabou-carbonique/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-01-12-100-ans-de-tabou-carbonique/"
 
 [[redirects]]
-from = "/me-nourrir/les-lieux-d-apprentissage/"
+from = "/me-nourrir/les-lieux-d-apprentissage/index.html"
 to = "/me-nourrir/enseignement-et-recherche/"
 
 [[redirects]]
-from = "/gouvernance/principes-d-organisation/"
+from = "/gouvernance/principes-d-organisation/index.html"
 to = "/municipalite/gouvernance/principes-d-organisation/"
 
 [[redirects]]
-from = "/equipe/paul-vieilledent/"
+from = "/equipe/paul-vieilledent/index.html"
 to = "/poubelle/equipe/paul-vieilledent/"
 
 [[redirects]]
-from = "/municipalite/histoire-daubervilliers/"
+from = "/municipalite/histoire-daubervilliers/index.html"
 to = "/municipalite/lhistoire/histoire-daubervilliers/"
 
 [[redirects]]
-from = "/thalie-papageorgiou/"
+from = "/thalie-papageorgiou/index.html"
 to = "/poubelle/equipe/thalie-papageorgiou/"
 
 [[redirects]]
-from = "/me-nourrir/apprentissage-et-production-collective/"
+from = "/me-nourrir/apprentissage-et-production-collective/index.html"
 to = "/me-nourrir/enseignement-et-recherche/"
 
 [[redirects]]
-from = "/me-nourrir/les-lieux-nourriciers/le-cimetiere-verger/"
+from = "/me-nourrir/les-lieux-nourriciers/le-cimetiere-verger/index.html"
 to = "/me-nourrir/ou-se-fournir/le-cimetiere-verger/"
 
 [[redirects]]
-from = "/municipalite/au-jour-le-jour/solidarite-et-sante/"
+from = "/municipalite/au-jour-le-jour/solidarite-et-sante/index.html"
 to = "/poubelle/solidarite-et-sante/"
 
 [[redirects]]
-from = "/equipe/marion-aubin/"
+from = "/equipe/marion-aubin/index.html"
 to = "/poubelle/equipe/marion-aubin/"
 
 [[redirects]]
-from = "/urbanisme-et-gouvernance/"
+from = "/urbanisme-et-gouvernance/index.html"
 to = "/municipalite/gouvernance/principes-d-organisation/"
 
 [[redirects]]
-from = "/apprentissage-et-production-collective/l-agroecologie-au-college-et-au-lycee/"
+from = "/apprentissage-et-production-collective/l-agroecologie-au-college-et-au-lycee/index.html"
 to = "/poubelle/l-agroecologie-au-college-et-au-lycee/"
 
 [[redirects]]
-from = "/municipalite/au-jour-le-jour/agenda/archives/"
+from = "/municipalite/au-jour-le-jour/agenda/archives/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/archives/"
 
 [[redirects]]
-from = "/massilia-dupont-matin/"
+from = "/massilia-dupont-matin/index.html"
 to = "/poubelle/equipe/massilia-dupont-matin/"
 
 [[redirects]]
-from = "/equipe/ludovic-martin/"
+from = "/equipe/ludovic-martin/index.html"
 to = "/poubelle/equipe/ludovic-martin/"
 
 [[redirects]]
-from = "/emma-desblancs/"
+from = "/emma-desblancs/index.html"
 to = "/poubelle/equipe/emma-desblancs/"
 
 [[redirects]]
-from = "/victor-vangraefschepe/"
+from = "/victor-vangraefschepe/index.html"
 to = "/poubelle/equipe/victor-vangraefschepe/"
 
 [[redirects]]
-from = "/economie-et-emploi/"
+from = "/economie-et-emploi/index.html"
 to = "/me-nourrir/ou-se-fournir/economie-et-emploi/"
 
 [[redirects]]
-from = "/art-culture/"
+from = "/art-culture/index.html"
 to = "/municipalite/au-jour-le-jour/art-culture/"
 
 [[redirects]]
-from = "/urbanisme-nourricier/depollution/"
+from = "/urbanisme-nourricier/depollution/index.html"
 to = "/me-nourrir/urbanisme-nourricier/depollution/"
 
 [[redirects]]
-from = "/me-nourrir/ferme-mazier/"
+from = "/me-nourrir/ferme-mazier/index.html"
 to = "/me-nourrir/ou-se-fournir/ferme-mazier/"
 
 [[redirects]]
-from = "/agenda/"
+from = "/agenda/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/"
 
 [[redirects]]
-from = "/me-nourrir/apprentissage-et-production-collective/enfance-et-jeunesse/"
+from = "/me-nourrir/apprentissage-et-production-collective/enfance-et-jeunesse/index.html"
 to = "/me-nourrir/urbanisme-nourricier/enfance-et-jeunesse/"
 
 [[redirects]]
-from = "/apprentissage-et-production-collective/"
+from = "/apprentissage-et-production-collective/index.html"
 to = "/me-nourrir/enseignement-et-recherche/"
 
 [[redirects]]
-from = "/me-nourrir/ou-se-fournir/le-reseau-de-distribution-alimentaire/"
+from = "/me-nourrir/ou-se-fournir/le-reseau-de-distribution-alimentaire/index.html"
 to = "/me-nourrir/lapprovisionnement-de-la-commune/le-reseau-de-distribution-alimentaire/"
 
 [[redirects]]
-from = "/equipe/stephane-mercier/"
+from = "/equipe/stephane-mercier/index.html"
 to = "/poubelle/equipe/stephane-mercier/"
 
 [[redirects]]
-from = "/municipalite/lhistoire/archives-officielles/"
+from = "/municipalite/lhistoire/archives-officielles/index.html"
 to = "/municipalite/gouvernance/archives-officielles/"
 
 [[redirects]]
-from = "/gouvernance/"
+from = "/gouvernance/index.html"
 to = "/municipalite/gouvernance/"
 
 [[redirects]]
-from = "/municipalite/au-jour-le-jour/agenda/2124-05-06-fete-de-printemps-de-la-rue-henri-barbusse/"
+from = "/municipalite/au-jour-le-jour/agenda/2124-05-06-fete-de-printemps-de-la-rue-henri-barbusse/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/fete-de-printemps-de-la-rue-henri-barbusse/"
 
 [[redirects]]
-from = "/municipalite/au-jour-le-jour/agenda/2124-03-01-comite-de-quartier-maladrerie/"
+from = "/municipalite/au-jour-le-jour/agenda/2124-03-01-comite-de-quartier-maladrerie/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/comite-de-quartier-maladrerie/"
 
 [[redirects]]
-from = "/urbanisme-nourricier/metiers-de-lurbanisme/"
+from = "/urbanisme-nourricier/metiers-de-lurbanisme/index.html"
 to = "/municipalite/urbanisme-nourricier/metiers-de-lurbanisme/"
 
 [[redirects]]
-from = "/urbanisme-nourricier/manifeste/"
+from = "/urbanisme-nourricier/manifeste/index.html"
 to = "/me-nourrir/urbanisme-nourricier/manifeste/"
 
 [[redirects]]
-from = "/agenda/2124-04-01-sur-les-traces-darcimboldo-vernissage/"
+from = "/agenda/2124-04-01-sur-les-traces-darcimboldo-vernissage/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-04-01-sur-les-traces-darcimboldo-vernissage/"
 
 [[redirects]]
-from = "/municipalite/lhistoire/urbanisme-et-gouvernance/"
+from = "/municipalite/lhistoire/urbanisme-et-gouvernance/index.html"
 to = "/municipalite/gouvernance/principes-d-organisation/"
 
 [[redirects]]
-from = "/municipalite/urbanisme-nourricier/"
+from = "/municipalite/urbanisme-nourricier/index.html"
 to = "/me-nourrir/urbanisme-nourricier/"
 
 [[redirects]]
-from = "/me-nourrir/apprentissage-et-production-collective/galerie-de-portraits/"
+from = "/me-nourrir/apprentissage-et-production-collective/galerie-de-portraits/index.html"
 to = "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
 
 [[redirects]]
-from = "/l-agroecologie-au-college-et-au-lycee/"
+from = "/l-agroecologie-au-college-et-au-lycee/index.html"
 to = "/poubelle/l-agroecologie-au-college-et-au-lycee/"
 
 [[redirects]]
-from = "/municipalite/lhistoire/charte-de-la-commune-libre-daubervilliers/"
+from = "/municipalite/lhistoire/charte-de-la-commune-libre-daubervilliers/index.html"
 to = "/municipalite/gouvernance/charte/"
 
 [[redirects]]
-from = "/stephane-mercier/"
+from = "/stephane-mercier/index.html"
 to = "/poubelle/equipe/stephane-mercier/"
 
 [[redirects]]
-from = "/un-projet-albertivillarien-la-ville-du-tiers/"
+from = "/un-projet-albertivillarien-la-ville-du-tiers/index.html"
 to = "/municipalite/gouvernance/la-ville-du-tiers/"
 
 [[redirects]]
-from = "/urbanisme-nourricier/un-projet-albertivillarien-la-ville-du-tiers/"
+from = "/urbanisme-nourricier/un-projet-albertivillarien-la-ville-du-tiers/index.html"
 to = "/municipalite/gouvernance/la-ville-du-tiers/"
 
 [[redirects]]
-from = "/me-nourrir/urbanisme-nourricier/galerie-de-portraits/"
+from = "/me-nourrir/urbanisme-nourricier/galerie-de-portraits/index.html"
 to = "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
 
 [[redirects]]
-from = "/les-nouvelles-rues-agricoles-daubervilliers/"
+from = "/les-nouvelles-rues-agricoles-daubervilliers/index.html"
 to = "/me-nourrir/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
 
 [[redirects]]
-from = "/municipalite/urbanisme-nourricier/galerie-de-portraits/"
+from = "/municipalite/urbanisme-nourricier/galerie-de-portraits/index.html"
 to = "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
 
 [[redirects]]
-from = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-05-06-fete-de-printemps-de-la-rue-henri-barbusse/"
+from = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-05-06-fete-de-printemps-de-la-rue-henri-barbusse/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/fete-de-printemps-de-la-rue-henri-barbusse/"
 
 [[redirects]]
-from = "/cadre-de-vie/culture/art/"
+from = "/cadre-de-vie/culture/art/index.html"
 to = "/municipalite/au-jour-le-jour/art-culture/"
 
 [[redirects]]
-from = "/galerie-de-portraits/"
+from = "/galerie-de-portraits/index.html"
 to = "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
 
 [[redirects]]
-from = "/quest-ce-quun-urbaniste-dans-une-ville-nourriciere/"
+from = "/quest-ce-quun-urbaniste-dans-une-ville-nourriciere/index.html"
 to = "/me-nourrir/urbanisme-nourricier/quest-ce-quun-urbaniste-dans-une-ville-nourriciere/"
 
 [[redirects]]
-from = "/histoire-daubervilliers/"
+from = "/histoire-daubervilliers/index.html"
 to = "/municipalite/lhistoire/histoire-daubervilliers/"
 
 [[redirects]]
-from = "/apprentissage-et-production-collective/galerie-de-portraits/"
+from = "/apprentissage-et-production-collective/galerie-de-portraits/index.html"
 to = "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
 
 [[redirects]]
-from = "/municipalite/urbanisme-nourricier/metabolismes-urbains/"
+from = "/municipalite/urbanisme-nourricier/metabolismes-urbains/index.html"
 to = "/me-nourrir/urbanisme-nourricier/metabolismes-urbains/"
 
 [[redirects]]
-from = "/municipalite/agenda/"
+from = "/municipalite/agenda/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/"
 
 [[redirects]]
-from = "/nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales/"
+from = "/nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales/index.html"
 to = "/me-nourrir/lapprovisionnement-de-la-commune/nourrir-notre-communaute-points-cles-de-la-selection-des-beneficiaires-des-recoltes-locales/"
 
 [[redirects]]
-from = "/municipalite/ma-vie-de-citoyen-ne/loasis-de-biodiversite-ou-zone-des-300/"
+from = "/municipalite/ma-vie-de-citoyen-ne/loasis-de-biodiversite-ou-zone-des-300/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/loasis-de-biodiversite/"
 
 [[redirects]]
-from = "/gouvernance/charte-de-la-commune-libre-daubervilliers/"
+from = "/gouvernance/charte-de-la-commune-libre-daubervilliers/index.html"
 to = "/municipalite/gouvernance/charte/"
 
 [[redirects]]
-from = "/municipalite/lhistoire/solidarite-et-sante/"
+from = "/municipalite/lhistoire/solidarite-et-sante/index.html"
 to = "/poubelle/solidarite-et-sante/"
 
 [[redirects]]
-from = "/agenda/2124-04-01-sur-les-traces-darcimboldo-1/"
+from = "/agenda/2124-04-01-sur-les-traces-darcimboldo-1/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-04-01-sur-les-traces-darcimboldo-vernissage/"
 
 [[redirects]]
-from = "/municipalite/ma-vie-de-citoyen-ne/solidarite-et-sante/"
+from = "/municipalite/ma-vie-de-citoyen-ne/solidarite-et-sante/index.html"
 to = "/poubelle/solidarite-et-sante/"
 
 [[redirects]]
-from = "/afshin-rahimi/"
+from = "/afshin-rahimi/index.html"
 to = "/poubelle/equipe/afshin-rahimi/"
 
 [[redirects]]
-from = "/organisations/"
+from = "/organisations/index.html"
 to = "/poubelle/organisations/"
 
 [[redirects]]
-from = "/patricia-roche/"
+from = "/patricia-roche/index.html"
 to = "/poubelle/equipe/patricia-roche/"
 
 [[redirects]]
-from = "/loasis-de-biodiversite-ou-zone-des-300/"
+from = "/loasis-de-biodiversite-ou-zone-des-300/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/loasis-de-biodiversite/"
 
 [[redirects]]
-from = "/municipalite/urbanisme-et-gouvernance/"
+from = "/municipalite/urbanisme-et-gouvernance/index.html"
 to = "/municipalite/gouvernance/principes-d-organisation/"
 
 [[redirects]]
-from = "/apprendre/des-parcours-des-12-ans-pour-sinserer-dans-la-vie-locale/"
+from = "/apprendre/des-parcours-des-12-ans-pour-sinserer-dans-la-vie-locale/index.html"
 to = "/poubelle/l-agroecologie-au-college-et-au-lycee/"
 
 [[redirects]]
-from = "/histoire-daubervilliers-des-cent-dernieres-annees/"
+from = "/histoire-daubervilliers-des-cent-dernieres-annees/index.html"
 to = "/municipalite/gouvernance/mille-ans-d-histoire/"
 
 [[redirects]]
-from = "/elliot-mortensen/"
+from = "/elliot-mortensen/index.html"
 to = "/poubelle/equipe/elliot-mortensen/"
 
 [[redirects]]
-from = "/ludovic-martin/"
+from = "/ludovic-martin/index.html"
 to = "/poubelle/equipe/ludovic-martin/"
 
 [[redirects]]
-from = "/paul-vieilledent/"
+from = "/paul-vieilledent/index.html"
 to = "/poubelle/equipe/paul-vieilledent/"
 
 [[redirects]]
-from = "/ferme-du-fort-daubervilliers/"
+from = "/ferme-du-fort-daubervilliers/index.html"
 to = "/me-nourrir/ou-se-fournir/ferme-du-fort-daubervilliers/"
 
 [[redirects]]
-from = "/apprentissage-et-production-collective/enfance-et-jeunesse/"
+from = "/apprentissage-et-production-collective/enfance-et-jeunesse/index.html"
 to = "/me-nourrir/urbanisme-nourricier/enfance-et-jeunesse/"
 
 [[redirects]]
-from = "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-aujourdhui/"
+from = "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-aujourdhui/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
 
 [[redirects]]
-from = "/me-nourrir/les-lieux-nourriciers/lorigine-du-cimetiere-verger/"
+from = "/me-nourrir/les-lieux-nourriciers/lorigine-du-cimetiere-verger/index.html"
 to = "/me-nourrir/ou-se-fournir/le-cimetiere-verger/"
 
 [[redirects]]
-from = "/maxime-priet/"
+from = "/maxime-priet/index.html"
 to = "/poubelle/equipe/maxime-priet/"
 
 [[redirects]]
-from = "/enfance-et-jeunesse/"
+from = "/enfance-et-jeunesse/index.html"
 to = "/me-nourrir/urbanisme-nourricier/enfance-et-jeunesse/"
 
 [[redirects]]
-from = "/me-nourrir/les-lieux-nourriciers/ferme-mazier/"
+from = "/me-nourrir/les-lieux-nourriciers/ferme-mazier/index.html"
 to = "/me-nourrir/ou-se-fournir/ferme-mazier/"
 
 [[redirects]]
-from = "/equipe/massilia-dupont-matin/"
+from = "/equipe/massilia-dupont-matin/index.html"
 to = "/poubelle/equipe/massilia-dupont-matin/"
 
 [[redirects]]
-from = "/me-nourrir/lorigine-du-cimetiere-verger/"
+from = "/me-nourrir/lorigine-du-cimetiere-verger/index.html"
 to = "/me-nourrir/ou-se-fournir/le-cimetiere-verger/"
 
 [[redirects]]
-from = "/marion-aubin/"
+from = "/marion-aubin/index.html"
 to = "/poubelle/equipe/marion-aubin/"
 
 [[redirects]]
-from = "/me-nourrir/les-lieux-nourriciers/ferme-du-fort-daubervilliers/"
+from = "/me-nourrir/les-lieux-nourriciers/ferme-du-fort-daubervilliers/index.html"
 to = "/me-nourrir/ou-se-fournir/ferme-du-fort-daubervilliers/"
 
 [[redirects]]
-from = "/agenda/2124-02-26-comite-de-quartier-maladrerie/"
+from = "/agenda/2124-02-26-comite-de-quartier-maladrerie/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/comite-de-quartier-maladrerie/"
 
 [[redirects]]
-from = "/agenda/archives/"
+from = "/agenda/archives/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/archives/"
 
 [[redirects]]
-from = "/equipe/elias-drouet-mannet/"
+from = "/equipe/elias-drouet-mannet/index.html"
 to = "/poubelle/equipe/elias-drouet-mannet/"
 
 [[redirects]]
-from = "/me-nourrir/les-lieux-nourriciers/economie-et-emploi/"
+from = "/me-nourrir/les-lieux-nourriciers/economie-et-emploi/index.html"
 to = "/me-nourrir/ou-se-fournir/economie-et-emploi/"
 
 [[redirects]]
-from = "/municipalite/agenda/2124-03-01-comite-de-quartier-maladrerie/"
+from = "/municipalite/agenda/2124-03-01-comite-de-quartier-maladrerie/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/comite-de-quartier-maladrerie/"
 
 [[redirects]]
-from = "/municipalite/urbanisme-nourricier/manifeste/"
+from = "/municipalite/urbanisme-nourricier/manifeste/index.html"
 to = "/me-nourrir/urbanisme-nourricier/manifeste/"
 
 [[redirects]]
-from = "/equipe/afshin-rahimi/"
+from = "/equipe/afshin-rahimi/index.html"
 to = "/poubelle/equipe/afshin-rahimi/"
 
 [[redirects]]
-from = "/equipe/pietro-arcosanti/"
+from = "/equipe/pietro-arcosanti/index.html"
 to = "/poubelle/equipe/pietro-arcosanti/"
 
 [[redirects]]
-from = "/me-nourrir/apprendre/"
+from = "/me-nourrir/apprendre/index.html"
 to = "/me-nourrir/enseignement-et-recherche/"
 
 [[redirects]]
-from = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-03-01-comite-de-quartier-maladrerie/"
+from = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-03-01-comite-de-quartier-maladrerie/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/comite-de-quartier-maladrerie/"
 
 [[redirects]]
-from = "/municipalite/gouvernance/les-plans/"
+from = "/municipalite/gouvernance/les-plans/index.html"
 to = "/municipalite/gouvernance/cartographie-d-aubervilliers-en-2124/"
 
 [[redirects]]
-from = "/equipe/victor-vangraefschepe/"
+from = "/equipe/victor-vangraefschepe/index.html"
 to = "/poubelle/equipe/victor-vangraefschepe/"
 
 [[redirects]]
-from = "/municipalite/au-jour-le-jour/agenda/2124-04-01-sur-les-traces-darcimboldo/"
+from = "/municipalite/au-jour-le-jour/agenda/2124-04-01-sur-les-traces-darcimboldo/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/sur-les-traces-darcimboldo/"
 
 [[redirects]]
-from = "/chahrazad-belheine/"
+from = "/chahrazad-belheine/index.html"
 to = "/poubelle/equipe/chahrazad-belheine/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/poubelle/actualites/"
 
 [[redirects]]
-from = "/urbanisme-nourricier/les-nouvelles-rues-agricoles-daubervilliers/"
+from = "/urbanisme-nourricier/les-nouvelles-rues-agricoles-daubervilliers/index.html"
 to = "/me-nourrir/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
 
 [[redirects]]
-from = "/equipe/chahrazad-belheine/"
+from = "/equipe/chahrazad-belheine/index.html"
 to = "/poubelle/equipe/chahrazad-belheine/"
 
 [[redirects]]
-from = "/municipalite/actualites/"
+from = "/municipalite/actualites/index.html"
 to = "/poubelle/actualites/"
 
 [[redirects]]
-from = "/morgane-calliot/"
+from = "/morgane-calliot/index.html"
 to = "/poubelle/equipe/morgane-calliot/"
 
 [[redirects]]
-from = "/me-nourrir/les-lieux-nourriciers/le-reseau-de-distribution-alimentaire/"
+from = "/me-nourrir/les-lieux-nourriciers/le-reseau-de-distribution-alimentaire/index.html"
 to = "/me-nourrir/lapprovisionnement-de-la-commune/le-reseau-de-distribution-alimentaire/"
 
 [[redirects]]
-from = "/municipalite/gouvernance/plans/"
+from = "/municipalite/gouvernance/plans/index.html"
 to = "/municipalite/gouvernance/cartographie-d-aubervilliers-en-2124/"
 
 [[redirects]]
-from = "/gouvernance/mille-ans-d-histoire/"
+from = "/gouvernance/mille-ans-d-histoire/index.html"
 to = "/municipalite/gouvernance/mille-ans-d-histoire/"
 
 [[redirects]]
-from = "/des-parcours-des-12-ans-pour-sinserer-dans-la-vie-locale/"
+from = "/des-parcours-des-12-ans-pour-sinserer-dans-la-vie-locale/index.html"
 to = "/poubelle/l-agroecologie-au-college-et-au-lycee/"
 
 [[redirects]]
-from = "/equipe/elliot-mortensen/"
+from = "/equipe/elliot-mortensen/index.html"
 to = "/poubelle/equipe/elliot-mortensen/"
 
 [[redirects]]
-from = "/municipalite/charte-de-la-commune-libre-daubervilliers/"
+from = "/municipalite/charte-de-la-commune-libre-daubervilliers/index.html"
 to = "/municipalite/gouvernance/charte/"
 
 [[redirects]]
-from = "/municipalite/au-jour-le-jour/agenda/2124-04-01-sur-les-traces-darcimboldo-vernissage/"
+from = "/municipalite/au-jour-le-jour/agenda/2124-04-01-sur-les-traces-darcimboldo-vernissage/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-04-01-sur-les-traces-darcimboldo-vernissage/"
 
 [[redirects]]
-from = "/le-reseau-de-distribution-alimentaire/"
+from = "/le-reseau-de-distribution-alimentaire/index.html"
 to = "/me-nourrir/lapprovisionnement-de-la-commune/le-reseau-de-distribution-alimentaire/"
 
 [[redirects]]
-from = "/equipe/emma-desblancs/"
+from = "/equipe/emma-desblancs/index.html"
 to = "/poubelle/equipe/emma-desblancs/"
 
 [[redirects]]
-from = "/elias-drouet-mannet/"
+from = "/elias-drouet-mannet/index.html"
 to = "/poubelle/equipe/elias-drouet-mannet/"
 
 [[redirects]]
-from = "/me-nourrir/economie-et-emploi/"
+from = "/me-nourrir/economie-et-emploi/index.html"
 to = "/me-nourrir/ou-se-fournir/economie-et-emploi/"
 
 [[redirects]]
-from = "/apprendre/"
+from = "/apprendre/index.html"
 to = "/me-nourrir/enseignement-et-recherche/"
 
 [[redirects]]
-from = "/mobilite/location-de-velos-cargos-et-de-scooters-pmr/"
+from = "/mobilite/location-de-velos-cargos-et-de-scooters-pmr/index.html"
 to = "/poubelle/location-de-velos-cargos-et-de-scooters-pmr/"
 
 [[redirects]]
-from = "/mobilite/mobilites-actives-et-transports-en-commun/"
+from = "/mobilite/mobilites-actives-et-transports-en-commun/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/mobilites-actives-et-transports-en-commun/"
 
 [[redirects]]
-from = "/municipalite/gouvernance/urbanisme-et-gouvernance/"
+from = "/municipalite/gouvernance/urbanisme-et-gouvernance/index.html"
 to = "/municipalite/gouvernance/principes-d-organisation/"
 
 [[redirects]]
-from = "/me-nourrir/apprentissage-et-production-collective/l-agroecologie-au-college-et-au-lycee/"
+from = "/me-nourrir/apprentissage-et-production-collective/l-agroecologie-au-college-et-au-lycee/index.html"
 to = "/poubelle/l-agroecologie-au-college-et-au-lycee/"
 
 [[redirects]]
-from = "/municipalite/gouvernance/cent-ans-d-histoire/"
+from = "/municipalite/gouvernance/cent-ans-d-histoire/index.html"
 to = "/municipalite/gouvernance/mille-ans-d-histoire/"
 
 [[redirects]]
-from = "/gouvernance/archives-officielles/"
+from = "/gouvernance/archives-officielles/index.html"
 to = "/municipalite/gouvernance/archives-officielles/"
 
 [[redirects]]
-from = "/municipalite/gouvernance/charte-de-la-commune-libre-daubervilliers/"
+from = "/municipalite/gouvernance/charte-de-la-commune-libre-daubervilliers/index.html"
 to = "/municipalite/gouvernance/charte/"
 
 [[redirects]]
-from = "/municipalite/au-jour-le-jour/agenda/2124-07-25-festival-international-des-recoltes/"
+from = "/municipalite/au-jour-le-jour/agenda/2124-07-25-festival-international-des-recoltes/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/festival-international-des-recoltes/"
 
 [[redirects]]
-from = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-04-01-sur-les-traces-darcimboldo/"
+from = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-04-01-sur-les-traces-darcimboldo/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/sur-les-traces-darcimboldo/"
 
 [[redirects]]
-from = "/me-nourrir/le-reseau-de-distribution-alimentaire/"
+from = "/me-nourrir/le-reseau-de-distribution-alimentaire/index.html"
 to = "/me-nourrir/lapprovisionnement-de-la-commune/le-reseau-de-distribution-alimentaire/"
 
 [[redirects]]
-from = "/pietro-arcosanti/"
+from = "/pietro-arcosanti/index.html"
 to = "/poubelle/equipe/pietro-arcosanti/"
 
 [[redirects]]
-from = "/solidarite-et-sante/"
+from = "/solidarite-et-sante/index.html"
 to = "/poubelle/solidarite-et-sante/"
 
 [[redirects]]
-from = "/equipe/"
+from = "/equipe/index.html"
 to = "/poubelle/equipe/"
 
 [[redirects]]
-from = "/apprendre/enfance-et-jeunesse/"
+from = "/apprendre/enfance-et-jeunesse/index.html"
 to = "/me-nourrir/urbanisme-nourricier/enfance-et-jeunesse/"
 
 [[redirects]]
-from = "/municipalite/lhistoire/les-plans/"
+from = "/municipalite/lhistoire/les-plans/index.html"
 to = "/municipalite/gouvernance/cartographie-d-aubervilliers-en-2124/"
 
 [[redirects]]
-from = "/assia-khalil-el-khoury/"
+from = "/assia-khalil-el-khoury/index.html"
 to = "/poubelle/equipe/assia-khalil-el-khoury/"
 
 [[redirects]]
-from = "/aubervilliers-aujourdhui/"
+from = "/aubervilliers-aujourdhui/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
 
 [[redirects]]
-from = "/municipalite/lhistoire/"
+from = "/municipalite/lhistoire/index.html"
 to = "/municipalite/gouvernance/"
 
 [[redirects]]
-from = "/equipe/fahd-lahlou/"
+from = "/equipe/fahd-lahlou/index.html"
 to = "/poubelle/equipe/fahd-lahlou/"
 
 [[redirects]]
-from = "/me-nourrir/ferme-du-fort-daubervilliers/"
+from = "/me-nourrir/ferme-du-fort-daubervilliers/index.html"
 to = "/me-nourrir/ou-se-fournir/ferme-du-fort-daubervilliers/"
 
 [[redirects]]
-from = "/municipalite/au-jour-le-jour/aubervilliers-aujourdhui/"
+from = "/municipalite/au-jour-le-jour/aubervilliers-aujourdhui/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
 
 [[redirects]]
-from = "/agenda/2124-07-25-festival-international-des-recoltes/"
+from = "/agenda/2124-07-25-festival-international-des-recoltes/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/festival-international-des-recoltes/"
 
 [[redirects]]
-from = "/urbanisme-nourricier/apprentissage-et-production-collective/"
+from = "/urbanisme-nourricier/apprentissage-et-production-collective/index.html"
 to = "/me-nourrir/enseignement-et-recherche/"
 
 [[redirects]]
-from = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-07-25-festival-international-des-recoltes/"
+from = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-07-25-festival-international-des-recoltes/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/festival-international-des-recoltes/"
 
 [[redirects]]
-from = "/municipalite/urbanisme-nourricier/depollution/"
+from = "/municipalite/urbanisme-nourricier/depollution/index.html"
 to = "/me-nourrir/urbanisme-nourricier/depollution/"
 
 [[redirects]]
-from = "/me-nourrir/le-cimetiere-verger/"
+from = "/me-nourrir/le-cimetiere-verger/index.html"
 to = "/me-nourrir/ou-se-fournir/le-cimetiere-verger/"
 
 [[redirects]]
-from = "/municipalite/lhistoire/histoire-daubervilliers-des-cent-dernieres-annees/"
+from = "/municipalite/lhistoire/histoire-daubervilliers-des-cent-dernieres-annees/index.html"
 to = "/municipalite/gouvernance/mille-ans-d-histoire/"
 
 [[redirects]]
-from = "/municipalite/au-jour-le-jour/"
+from = "/municipalite/au-jour-le-jour/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/"
 
 [[redirects]]
-from = "/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
+from = "/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/index.html"
 to = "/me-nourrir/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
 
 [[redirects]]
-from = "/lorigine-du-cimetiere-verger/"
+from = "/lorigine-du-cimetiere-verger/index.html"
 to = "/me-nourrir/ou-se-fournir/le-cimetiere-verger/"
 
 [[redirects]]
-from = "/la-lutte-contre-la-gentrification/"
+from = "/la-lutte-contre-la-gentrification/index.html"
 to = "/municipalite/gouvernance/la-lutte-contre-la-gentrification/"
 
 [[redirects]]
-from = "/equipe/patricia-roche/"
+from = "/equipe/patricia-roche/index.html"
 to = "/poubelle/equipe/patricia-roche/"
 
 [[redirects]]
-from = "/municipalite/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
+from = "/municipalite/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/index.html"
 to = "/me-nourrir/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
 
 [[redirects]]
-from = "/agenda/2124-04-01-sur-les-traces-darcimboldo/"
+from = "/agenda/2124-04-01-sur-les-traces-darcimboldo/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/sur-les-traces-darcimboldo/"
 
 [[redirects]]
-from = "/me-nourrir/enseignement-et-recherche/enfance-et-jeunesse/"
+from = "/me-nourrir/enseignement-et-recherche/enfance-et-jeunesse/index.html"
 to = "/me-nourrir/urbanisme-nourricier/enfance-et-jeunesse/"
 
 [[redirects]]
-from = "/municipalite/aubervilliers-aujourdhui/"
+from = "/municipalite/aubervilliers-aujourdhui/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/aubervilliers-libre/"
 
 [[redirects]]
-from = "/agenda/2124-03-01-comite-de-quartier-maladrerie/"
+from = "/agenda/2124-03-01-comite-de-quartier-maladrerie/index.html"
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124/comite-de-quartier-maladrerie/"
 
 [[redirects]]
-from = "/archives-officielles/"
+from = "/archives-officielles/index.html"
 to = "/municipalite/gouvernance/archives-officielles/"
 
 [[redirects]]
-from = "/municipalite/solidarite-et-sante/"
+from = "/municipalite/solidarite-et-sante/index.html"
 to = "/poubelle/solidarite-et-sante/"
 
 [[redirects]]
-from = "/apprendre/l-agroecologie-au-college-et-au-lycee/"
+from = "/apprendre/l-agroecologie-au-college-et-au-lycee/index.html"
 to = "/poubelle/l-agroecologie-au-college-et-au-lycee/"
 
 [[redirects]]
-from = "/municipalite/urbanisme-nourricier/les-nouvelles-rues-agricoles-daubervilliers/"
+from = "/municipalite/urbanisme-nourricier/les-nouvelles-rues-agricoles-daubervilliers/index.html"
 to = "/me-nourrir/urbanisme-nourricier/les-rues-agricoles-d-aubervilliers/"
 
 [[redirects]]
-from = "/fahd-lahlou/"
+from = "/fahd-lahlou/index.html"
 to = "/poubelle/equipe/fahd-lahlou/"
 
 [[redirects]]
-from = "/urbanisme-nourricier/galerie-de-portraits/"
+from = "/urbanisme-nourricier/galerie-de-portraits/index.html"
 to = "/me-nourrir/urbanisme-nourricier/a-la-rencontre-des-habitants-et-habitantes-d-aubervilliers/"
 
 [[redirects]]
-from = "/equipe/maxime-priet/"
+from = "/equipe/maxime-priet/index.html"
 to = "/poubelle/equipe/maxime-priet/"
 
 [[redirects]]
-from = "/equipe/assia-khalil-el-khoury/"
+from = "/equipe/assia-khalil-el-khoury/index.html"
 to = "/poubelle/equipe/assia-khalil-el-khoury/"
 
