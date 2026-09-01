@@ -59,6 +59,10 @@ from = "/municipalite/au-jour-le-jour/agenda/2124-01-12-100-ans-de-tabou-carboni
 to = "/municipalite/ma-vie-de-citoyen-ne/agenda/2124-01-12-100-ans-de-tabou-carbonique/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/diagnostic-alimentaire-aubervilliers-pour-diffusionpdf/"
+
+[[redirects]]
 from = "/me-nourrir/les-lieux-d-apprentissage/index.html"
 to = "/me-nourrir/enseignement-et-recherche/"
 
